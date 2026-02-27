@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:align="http://knowledgeweb.semanticweb.org/heterogeneity/alignment#" 
+ 	 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ 	 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ 	 xmlns:owl="http://www.w3.org/2002/07/owl#"
+ 	 xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+ 	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+ 	 xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<rdf:Description rdf:about="itm">
+ 	 <rdf:type rdf:resource="http://knowledgeweb.semanticweb.org/heterogeneity/alignment#Alignment"/>
+ 	 <align:onto1 rdf:resource="http://data.europa.eu/8mn/euroscivoc/"/> 
+ 	 <align:onto2 rdf:resource="http://id.nlm.nih.gov/mesh"/>
+</rdf:Description>
+ <rdf:Description rdf:about="http://data.europa.eu/8mn/euroscivoc/f26d918d-0024-4d97-ae6f-f8be85182f95">
+ 	 <skos:exactMatch rdf:resource="http://id.nlm.nih.gov/mesh/D066330"/>
+ </rdf:Description >
+</rdf:RDF>
