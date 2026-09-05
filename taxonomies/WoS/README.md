@@ -8,7 +8,7 @@ Last modified:
 Source files: wos_listing.csv, wos_categories.csv, wos_to_frascati.csv (curated mapping)
 Normalized to: wos.ttl, wos_mappings_frascati.ttl
 Concepts: 251, flat
-URI pattern: `https://tamar.dsd.sztaki.hu/taxonomies/wos/<code>` (minted; `WOS_BASE` in src/uri_prefixes.py)
+URI pattern: `https://w3id.org/tamar/taxonomies/wos/<code>` (minted; `WOS_BASE` in src/uri_prefixes.py)
 Normalizer: `normalize_wos()` in src/normalize_taxonomies.py
 
 Metadata creator: Andras Micsik

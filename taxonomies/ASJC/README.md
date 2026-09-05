@@ -8,7 +8,7 @@ Last modified:
 Source file: ASJC.csv
 Normalized to: asjc.ttl
 Concepts: 339
-URI pattern: `https://tamar.dsd.sztaki.hu/taxonomies/asjc/<code>` (minted; `ASJC_BASE` in src/uri_prefixes.py)
+URI pattern: `https://w3id.org/tamar/taxonomies/asjc/<code>` (minted; `ASJC_BASE` in src/uri_prefixes.py)
 Normalizer: `normalize_asjc()` in src/normalize_taxonomies.py
 
 Metadata creator: Andras Micsik

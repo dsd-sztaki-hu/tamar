@@ -17,7 +17,7 @@ Metadata last modified on:
 - Two encodings, two roles: the official XML supplies prefLabels and hierarchy;
   the second file is kept ONLY for its 6787 altLabels, which the official one lacks.
 - Those borrowed synonyms carry the datatype
-  `https://tamar.dsd.sztaki.hu/taxonomies/acm/semedica-synonym`, so their
+  `https://w3id.org/tamar/taxonomies/acm/semedica-synonym`, so their
   non-official origin stays visible.
 - TODO: provenance and license of ACMComputingClassificationSystemSKOSTaxonomy.xml
   are uncertain (`totem.semedica.com` URIs in the source file).
