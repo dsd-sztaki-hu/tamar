@@ -1,0 +1,12 @@
+# curie_map:
+#   skos: "http://www.w3.org/2004/02/skos/core#"
+#   semapv: "https://w3id.org/semapv/vocab/"
+# mapping_set_id: https://tamar.dsd.sztaki.hu/mappings/EuroSciVoc__oecd_ford.sssom.tsv
+# mapping_date: "2026-08-16"
+# license: https://creativecommons.org/licenses/by/4.0/
+# embedding_model: qwen3-embedding:8b
+# llm_model: verify: gpt-4o-mini (remote) [reused from EuroSciVoc__oecd_ford.verify.tsv, not re-run]; refine: gpt-oss:120b (local)
+# comment: TaMaR pairwise pipeline EuroSciVoc -> oecd_ford
+# mapping_set_description: skos:exactMatch is emitted only where mapping_justification is semapv:LexicalMatching; mappings justified by embedding similarity are capped at skos:closeMatch.
+# other: The LLM backend is not deterministic at temperature=0, so this set is ONE SAMPLE rather than a function of its inputs. Two identical runs were measured to disagree on 2.7% of the rows both kept (54/1993, 2026-08-16); treat a smaller difference between two sets as noise. src/relation_audit.py --compare DIR_A DIR_B lists the rows that moved, which are the ones a reviewer should look at first.
+# refine_filter: refine Rule 5 removed broad/narrow mappings entailed by a source-concept ancestor's exact/close match; flags: defaults

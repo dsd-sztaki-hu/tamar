@@ -1,0 +1,1764 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/tamar/taxonomies/wos/AA> a skos:Concept ;
+    skos:notation "AA",
+        "1.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Acoustics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/AC> a skos:Concept ;
+    skos:notation "AC",
+        "2.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Automation & Control Systems"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/AD> a skos:Concept ;
+    skos:notation "AD",
+        "4.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Agriculture, Dairy & Animal Science"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/AE> a skos:Concept ;
+    skos:notation "AE",
+        "4.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Agricultural Engineering"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/AF> a skos:Concept ;
+    skos:notation "AF",
+        "4.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Agricultural Economics & Policy"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/AH> a skos:Concept ;
+    skos:notation "AH",
+        "4.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Agriculture, Multidisciplinary"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/AI> a skos:Concept ;
+    skos:notation "AI",
+        "2.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Engineering, Aerospace"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/AM> a skos:Concept ;
+    skos:notation "AM",
+        "4.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Agronomy"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/AQ> a skos:Concept ;
+    skos:notation "AQ",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Allergy"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/AY> a skos:Concept ;
+    skos:notation "AY",
+        "3.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Anatomy & Morphology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/AZ> a skos:Concept ;
+    skos:notation "AZ",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Andrology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/BA> a skos:Concept ;
+    skos:notation "BA",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Anesthesiology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/BD> a skos:Concept ;
+    skos:notation "BD",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Biodiversity Conservation"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/BF> a skos:Concept ;
+    skos:notation "BF",
+        "5.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Anthropology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/BI> a skos:Concept ;
+    skos:notation "BI",
+        "6.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Archaeology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/BK> a skos:Concept ;
+    skos:notation "BK",
+        "6.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Architecture"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/BM> a skos:Concept ;
+    skos:notation "BM",
+        "5.07"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Area Studies"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/BP> a skos:Concept ;
+    skos:notation "BP",
+        "6.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Art"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/BQ> a skos:Concept ;
+    skos:notation "BQ",
+        "6.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Humanities, Multidisciplinary"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/BU> a skos:Concept ;
+    skos:notation "BU",
+        "1.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Astronomy & Astrophysics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/BV> a skos:Concept ;
+    skos:notation "BV",
+        "5.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Psychology, Biological"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/CL> a skos:Concept ;
+    skos:notation "CL",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Audiology & Speech-language Pathology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/CN> a skos:Concept ;
+    skos:notation "CN",
+        "5.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Behavioral Sciences"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/CO> a skos:Concept ;
+    skos:notation "CO",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Biochemical Research Methods"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/CQ> a skos:Concept ;
+    skos:notation "CQ",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Biochemistry & Molecular Biology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/CT> a skos:Concept ;
+    skos:notation "CT",
+        "2.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Cell & Tissue Engineering"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/CU> a skos:Concept ;
+    skos:notation "CU",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Biology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/DA> a skos:Concept ;
+    skos:notation "DA",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Biophysics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/DB> a skos:Concept ;
+    skos:notation "DB",
+        "2.08"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Biotechnology & Applied Microbiology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/DE> a skos:Concept ;
+    skos:notation "DE",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Plant Sciences"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/DI> a skos:Concept ;
+    skos:notation "DI",
+        "5.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Business"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/DK> a skos:Concept ;
+    skos:notation "DK",
+        "5.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Business, Finance"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/DM> a skos:Concept ;
+    skos:notation "DM",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Oncology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/DQ> a skos:Concept ;
+    skos:notation "DQ",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Cardiac & Cardiovascular Systems"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/DR> a skos:Concept ;
+    skos:notation "DR",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Cell Biology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/DS> a skos:Concept ;
+    skos:notation "DS",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Critical Care Medicine"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/DT> a skos:Concept ;
+    skos:notation "DT",
+        "2.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Thermodynamics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/DW> a skos:Concept ;
+    skos:notation "DW",
+        "1.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Chemistry, Applied"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/DX> a skos:Concept ;
+    skos:notation "DX",
+        "3.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Chemistry, Medicinal"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/DY> a skos:Concept ;
+    skos:notation "DY",
+        "1.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Chemistry, Multidisciplinary"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/EA> a skos:Concept ;
+    skos:notation "EA",
+        "1.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Chemistry, Analytical"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/EC> a skos:Concept ;
+    skos:notation "EC",
+        "1.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Chemistry, Inorganic & Nuclear"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/EE> a skos:Concept ;
+    skos:notation "EE",
+        "1.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Chemistry, Organic"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/EI> a skos:Concept ;
+    skos:notation "EI",
+        "1.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Chemistry, Physical"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/EN> a skos:Concept ;
+    skos:notation "EN",
+        "5.09"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Cultural Studies"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/EO> a skos:Concept ;
+    skos:notation "EO",
+        "6.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Classics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/EP> a skos:Concept ;
+    skos:notation "EP",
+        "1.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Computer Science, Artificial Intelligence"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/EQ> a skos:Concept ;
+    skos:notation "EQ",
+        "3.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Psychology, Clinical"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/ER> a skos:Concept ;
+    skos:notation "ER",
+        "1.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Computer Science, Cybernetics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/ES> a skos:Concept ;
+    skos:notation "ES",
+        "2.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Computer Science, Hardware & Architecture"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/ET> a skos:Concept ;
+    skos:notation "ET",
+        "1.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Computer Science, Information Systems"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/EU> a skos:Concept ;
+    skos:notation "EU",
+        "5.08"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Communication"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/EV> a skos:Concept ;
+    skos:notation "EV",
+        "1.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Computer Science, Interdisciplinary Applications"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/EW> a skos:Concept ;
+    skos:notation "EW",
+        "1.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Computer Science, Software Engineering"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/EX> a skos:Concept ;
+    skos:notation "EX",
+        "1.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Computer Science, Theory & Methods"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/FA> a skos:Concept ;
+    skos:notation "FA",
+        "2.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Construction & Building Technology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/FE> a skos:Concept ;
+    skos:notation "FE",
+        "5.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Criminology & Penology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/FF> a skos:Concept ;
+    skos:notation "FF",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Emergency Medicine"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/FI> a skos:Concept ;
+    skos:notation "FI",
+        "1.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Crystallography"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/FS> a skos:Concept ;
+    skos:notation "FS",
+        "6.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Dance"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/FU> a skos:Concept ;
+    skos:notation "FU",
+        "5.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Demography"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/FY> a skos:Concept ;
+    skos:notation "FY",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Dentistry, Oral Surgery & Medicine"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/GA> a skos:Concept ;
+    skos:notation "GA",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Dermatology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/GC> a skos:Concept ;
+    skos:notation "GC",
+        "1.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Geochemistry & Geophysics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/GM> a skos:Concept ;
+    skos:notation "GM",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Substance Abuse"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/GU> a skos:Concept ;
+    skos:notation "GU",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Ecology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/GY> a skos:Concept ;
+    skos:notation "GY",
+        "5.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Economics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/HA> a skos:Concept ;
+    skos:notation "HA",
+        "5.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Education & Educational Research"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/HB> a skos:Concept ;
+    skos:notation "HB",
+        "5.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Education, Scientific Disciplines"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/HE> a skos:Concept ;
+    skos:notation "HE",
+        "5.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Education, Special"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/HF> a skos:Concept ;
+    skos:notation "HF",
+        "6.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Ethics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/HI> a skos:Concept ;
+    skos:notation "HI",
+        "5.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Psychology, Educational"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/HL> a skos:Concept ;
+    skos:notation "HL",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Health Care Sciences & Services"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/HQ> a skos:Concept ;
+    skos:notation "HQ",
+        "1.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Electrochemistry"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/HT> a skos:Concept ;
+    skos:notation "HT",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Evolutionary Biology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/HY> a skos:Concept ;
+    skos:notation "HY",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Developmental Biology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/IA> a skos:Concept ;
+    skos:notation "IA",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Endocrinology & Metabolism"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/ID> a skos:Concept ;
+    skos:notation "ID",
+        "2.07"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Energy & Fuels"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/IF> a skos:Concept ;
+    skos:notation "IF",
+        "2.11"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Engineering, Multidisciplinary"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/IG> a skos:Concept ;
+    skos:notation "IG",
+        "2.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Engineering, Biomedical"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/IH> a skos:Concept ;
+    skos:notation "IH",
+        "2.07"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Engineering, Environmental"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/II> a skos:Concept ;
+    skos:notation "II",
+        "2.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Engineering, Chemical"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/IJ> a skos:Concept ;
+    skos:notation "IJ",
+        "2.11"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Engineering, Industrial"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/IK> a skos:Concept ;
+    skos:notation "IK",
+        "2.11"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Engineering, Manufacturing"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/IL> a skos:Concept ;
+    skos:notation "IL",
+        "2.07"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Engineering, Marine"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/IM> a skos:Concept ;
+    skos:notation "IM",
+        "2.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Engineering, Civil"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/IO> a skos:Concept ;
+    skos:notation "IO",
+        "2.07"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Engineering, Ocean"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/IP> a skos:Concept ;
+    skos:notation "IP",
+        "2.07"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Engineering, Petroleum"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/IQ> a skos:Concept ;
+    skos:notation "IQ",
+        "2.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Engineering, Electrical & Electronic"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/IU> a skos:Concept ;
+    skos:notation "IU",
+        "2.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Engineering, Mechanical"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/IX> a skos:Concept ;
+    skos:notation "IX",
+        "2.07"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Engineering, Geological"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/IY> a skos:Concept ;
+    skos:notation "IY",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Entomology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/JA> a skos:Concept ;
+    skos:notation "JA",
+        "1.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Environmental Sciences"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/JB> a skos:Concept ;
+    skos:notation "JB",
+        "5.07"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Environmental Studies"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/JI> a skos:Concept ;
+    skos:notation "JI",
+        "5.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Ergonomics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/JM> a skos:Concept ;
+    skos:notation "JM",
+        "5.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Ethnic Studies"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/JO> a skos:Concept ;
+    skos:notation "JO",
+        "5.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Family Studies"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/JS> a skos:Concept ;
+    skos:notation "JS",
+        "6.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Film, Radio, Television"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/JU> a skos:Concept ;
+    skos:notation "JU",
+        "4.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Fisheries"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/JW> a skos:Concept ;
+    skos:notation "JW",
+        "6.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Folklore"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/JY> a skos:Concept ;
+    skos:notation "JY",
+        "2.11"^^<urn:tamar:fos-code>,
+        "4.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Food Science & Technology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/KA> a skos:Concept ;
+    skos:notation "KA",
+        "4.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Forestry"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/KI> a skos:Concept ;
+    skos:notation "KI",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Gastroenterology & Hepatology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/KM> a skos:Concept ;
+    skos:notation "KM",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Genetics & Heredity"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/KU> a skos:Concept ;
+    skos:notation "KU",
+        "5.07"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Geography"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/KV> a skos:Concept ;
+    skos:notation "KV",
+        "1.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Geography, Physical"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/KY> a skos:Concept ;
+    skos:notation "KY",
+        "1.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Geology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/LE> a skos:Concept ;
+    skos:notation "LE",
+        "1.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Geosciences, Multidisciplinary"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/LI> a skos:Concept ;
+    skos:notation "LI",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Geriatrics & Gerontology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/LJ> a skos:Concept ;
+    skos:notation "LJ",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Gerontology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/LQ> a skos:Concept ;
+    skos:notation "LQ",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Health Policy & Services"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/MA> a skos:Concept ;
+    skos:notation "MA",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Hematology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/MC> a skos:Concept ;
+    skos:notation "MC",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Mathematical & Computational Biology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/ML> a skos:Concept ;
+    skos:notation "ML",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Primary Health Care"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/MM> a skos:Concept ;
+    skos:notation "MM",
+        "6.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "History"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/MQ> a skos:Concept ;
+    skos:notation "MQ",
+        "6.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "History & Philosophy of Science"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/MR> a skos:Concept ;
+    skos:notation "MR",
+        "6.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "History of Social Sciences"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/MU> a skos:Concept ;
+    skos:notation "MU",
+        "4.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Horticulture"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/MW> a skos:Concept ;
+    skos:notation "MW",
+        "5.09"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Hospitality, Leisure, Sport & Tourism"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/MY> a skos:Concept ;
+    skos:notation "MY",
+        "5.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Psychology, Developmental"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/NE> a skos:Concept ;
+    skos:notation "NE",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Public, Environmental & Occupational Health"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/NI> a skos:Concept ;
+    skos:notation "NI",
+        "3.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Immunology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/NM> a skos:Concept ;
+    skos:notation "NM",
+        "5.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Industrial Relations & Labor"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/NN> a skos:Concept ;
+    skos:notation "NN",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Infectious Diseases"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/NQ> a skos:Concept ;
+    skos:notation "NQ",
+        "5.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Psychology, Applied"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/NS> a skos:Concept ;
+    skos:notation "NS",
+        "2.1"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Nanoscience & Nanotechnology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/NU> a skos:Concept ;
+    skos:notation "NU",
+        "5.08"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Information Science & Library Science"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/OA> a skos:Concept ;
+    skos:notation "OA",
+        "2.11"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Instruments & Instrumentation"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/OE> a skos:Concept ;
+    skos:notation "OE",
+        "5.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "International Relations"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/OI> a skos:Concept ;
+    skos:notation "OI",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Integrative & Complementary Medicine"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/OM> a skos:Concept ;
+    skos:notation "OM",
+        "5.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Law"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/OO> a skos:Concept ;
+    skos:notation "OO",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Medical Ethics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/OP> a skos:Concept ;
+    skos:notation "OP",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Medicine, Legal"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/OR> a skos:Concept ;
+    skos:notation "OR",
+        "5.09"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Asian Studies"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/OT> a skos:Concept ;
+    skos:notation "OT",
+        "6.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Linguistics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/OU> a skos:Concept ;
+    skos:notation "OU",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Limnology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/OX> a skos:Concept ;
+    skos:notation "OX",
+        "6.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Literary Theory & Criticism"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/OY> a skos:Concept ;
+    skos:notation "OY",
+        "6.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Language & Linguistics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/OZ> a skos:Concept ;
+    skos:notation "OZ",
+        "6.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Literary Reviews"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PA> a skos:Concept ;
+    skos:notation "PA",
+        "6.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Literature"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PC> a skos:Concept ;
+    skos:notation "PC",
+        "5.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Management"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PD> a skos:Concept ;
+    skos:notation "PD",
+        "6.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Literature, African, Australian, Canadian"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PE> a skos:Concept ;
+    skos:notation "PE",
+        "5.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Operations Research & Management Science"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PF> a skos:Concept ;
+    skos:notation "PF",
+        "6.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Literature, American"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PG> a skos:Concept ;
+    skos:notation "PG",
+        "6.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Literature, British Isles"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PH> a skos:Concept ;
+    skos:notation "PH",
+        "6.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Literature, German, Dutch, Scandinavian"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PI> a skos:Concept ;
+    skos:notation "PI",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Marine & Freshwater Biology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PJ> a skos:Concept ;
+    skos:notation "PJ",
+        "2.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Materials Science, Paper & Wood"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PK> a skos:Concept ;
+    skos:notation "PK",
+        "2.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Materials Science, Ceramics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PM> a skos:Concept ;
+    skos:notation "PM",
+        "2.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Materials Science, Multidisciplinary"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PN> a skos:Concept ;
+    skos:notation "PN",
+        "1.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Mathematics, Applied"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PO> a skos:Concept ;
+    skos:notation "PO",
+        "1.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Mathematics, Interdisciplinary Applications"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PQ> a skos:Concept ;
+    skos:notation "PQ",
+        "1.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Mathematics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PS> a skos:Concept ;
+    skos:notation "PS",
+        "5.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Social Sciences, Mathematical Methods"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PT> a skos:Concept ;
+    skos:notation "PT",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Medical Informatics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PU> a skos:Concept ;
+    skos:notation "PU",
+        "2.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Mechanics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PW> a skos:Concept ;
+    skos:notation "PW",
+        "2.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Medical Laboratory Technology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PY> a skos:Concept ;
+    skos:notation "PY",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Medicine, General & Internal"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/PZ> a skos:Concept ;
+    skos:notation "PZ",
+        "2.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Metallurgy & Metallurgical Engineering"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/QA> a skos:Concept ;
+    skos:notation "QA",
+        "3.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Medicine, Research & Experimental"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/QC> a skos:Concept ;
+    skos:notation "QC",
+        "6.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Literature, Romance"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/QD> a skos:Concept ;
+    skos:notation "QD",
+        "6.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Literature, Slavic"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/QE> a skos:Concept ;
+    skos:notation "QE",
+        "2.09"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Materials Science, Biomaterials"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/QF> a skos:Concept ;
+    skos:notation "QF",
+        "2.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Materials Science, Characterization & Testing"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/QG> a skos:Concept ;
+    skos:notation "QG",
+        "2.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Materials Science, Coatings & Films"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/QH> a skos:Concept ;
+    skos:notation "QH",
+        "2.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Materials Science, Composites"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/QJ> a skos:Concept ;
+    skos:notation "QJ",
+        "2.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Materials Science, Textiles"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/QK> a skos:Concept ;
+    skos:notation "QK",
+        "6.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Medieval & Renaissance Studies"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/QL> a skos:Concept ;
+    skos:notation "QL",
+        "1.01"^^<urn:tamar:fos-code>,
+        "1.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Logic"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/QQ> a skos:Concept ;
+    skos:notation "QQ",
+        "1.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Meteorology & Atmospheric Sciences"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/QU> a skos:Concept ;
+    skos:notation "QU",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Microbiology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/RA> a skos:Concept ;
+    skos:notation "RA",
+        "2.11"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Microscopy"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/RB> a skos:Concept ;
+    skos:notation "RB",
+        "2.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Robotics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/RE> a skos:Concept ;
+    skos:notation "RE",
+        "1.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Mineralogy"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/RO> a skos:Concept ;
+    skos:notation "RO",
+        "1.07"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Multidisciplinary Sciences"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/RP> a skos:Concept ;
+    skos:notation "RP",
+        "6.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Music"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/RQ> a skos:Concept ;
+    skos:notation "RQ",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Mycology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/RT> a skos:Concept ;
+    skos:notation "RT",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Clinical Neurology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/RU> a skos:Concept ;
+    skos:notation "RU",
+        "3.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Neurosciences"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/RX> a skos:Concept ;
+    skos:notation "RX",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Neuroimaging"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/RY> a skos:Concept ;
+    skos:notation "RY",
+        "2.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Nuclear Science & Technology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/RZ> a skos:Concept ;
+    skos:notation "RZ",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Nursing"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/SA> a skos:Concept ;
+    skos:notation "SA",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Nutrition & Dietetics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/SD> a skos:Concept ;
+    skos:notation "SD",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Obstetrics & Gynecology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/SI> a skos:Concept ;
+    skos:notation "SI",
+        "1.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Oceanography"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/SR> a skos:Concept ;
+    skos:notation "SR",
+        "2.07"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Remote Sensing"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/SU> a skos:Concept ;
+    skos:notation "SU",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Ophthalmology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/SY> a skos:Concept ;
+    skos:notation "SY",
+        "1.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Optics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/TA> a skos:Concept ;
+    skos:notation "TA",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Ornithology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/TC> a skos:Concept ;
+    skos:notation "TC",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Orthopedics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/TD> a skos:Concept ;
+    skos:notation "TD",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Otorhinolaryngology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/TE> a skos:Concept ;
+    skos:notation "TE",
+        "1.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Paleontology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/TI> a skos:Concept ;
+    skos:notation "TI",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Parasitology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/TM> a skos:Concept ;
+    skos:notation "TM",
+        "3.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Pathology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/TQ> a skos:Concept ;
+    skos:notation "TQ",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Pediatrics"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/TU> a skos:Concept ;
+    skos:notation "TU",
+        "3.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Pharmacology & Pharmacy"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/UA> a skos:Concept ;
+    skos:notation "UA",
+        "6.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Philosophy"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/UB> a skos:Concept ;
+    skos:notation "UB",
+        "1.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Physics, Applied"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/UE> a skos:Concept ;
+    skos:notation "UE",
+        "2.11"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Imaging Science & Photographic Technology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/UF> a skos:Concept ;
+    skos:notation "UF",
+        "1.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Physics, Fluids & Plasmas"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/UH> a skos:Concept ;
+    skos:notation "UH",
+        "1.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Physics, Atomic, Molecular & Chemical"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/UI> a skos:Concept ;
+    skos:notation "UI",
+        "1.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Physics, Multidisciplinary"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/UK> a skos:Concept ;
+    skos:notation "UK",
+        "1.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Physics, Condensed Matter"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/UM> a skos:Concept ;
+    skos:notation "UM",
+        "3.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Physiology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/UN> a skos:Concept ;
+    skos:notation "UN",
+        "1.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Physics, Nuclear"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/UP> a skos:Concept ;
+    skos:notation "UP",
+        "1.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Physics, Particles & Fields"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/UQ> a skos:Concept ;
+    skos:notation "UQ",
+        "5.07"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Planning & Development"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/UR> a skos:Concept ;
+    skos:notation "UR",
+        "1.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Physics, Mathematical"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/UT> a skos:Concept ;
+    skos:notation "UT",
+        "6.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Poetry"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/UU> a skos:Concept ;
+    skos:notation "UU",
+        "5.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Political Science"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/UY> a skos:Concept ;
+    skos:notation "UY",
+        "1.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Polymer Science"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/VE> a skos:Concept ;
+    skos:notation "VE",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Psychiatry"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/VI> a skos:Concept ;
+    skos:notation "VI",
+        "5.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Psychology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/VJ> a skos:Concept ;
+    skos:notation "VJ",
+        "5.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Psychology, Multidisciplinary"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/VM> a skos:Concept ;
+    skos:notation "VM",
+        "5.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Public Administration"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/VP> a skos:Concept ;
+    skos:notation "VP",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Psychology, Psychoanalysis"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/VS> a skos:Concept ;
+    skos:notation "VS",
+        "5.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Psychology, Mathematical"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/VX> a skos:Concept ;
+    skos:notation "VX",
+        "5.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Psychology, Experimental"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/VY> a skos:Concept ;
+    skos:notation "VY",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Radiology, Nuclear Medicine & Medical Imaging"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/WC> a skos:Concept ;
+    skos:notation "WC",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Rehabilitation"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/WE> a skos:Concept ;
+    skos:notation "WE",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Respiratory System"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/WF> a skos:Concept ;
+    skos:notation "WF",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Reproductive Biology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/WH> a skos:Concept ;
+    skos:notation "WH",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Rheumatology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/WM> a skos:Concept ;
+    skos:notation "WM",
+        "5.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Social Issues"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/WQ> a skos:Concept ;
+    skos:notation "WQ",
+        "5.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Psychology, Social"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/WU> a skos:Concept ;
+    skos:notation "WU",
+        "5.09"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Social Sciences, Interdisciplinary"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/WV> a skos:Concept ;
+    skos:notation "WV",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Social Sciences, Biomedical"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/WY> a skos:Concept ;
+    skos:notation "WY",
+        "5.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Social Work"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/XA> a skos:Concept ;
+    skos:notation "XA",
+        "5.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Sociology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/XE> a skos:Concept ;
+    skos:notation "XE",
+        "4.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Soil Science"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/XQ> a skos:Concept ;
+    skos:notation "XQ",
+        "2.11"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Spectroscopy"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/XW> a skos:Concept ;
+    skos:notation "XW",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Sport Sciences"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/XY> a skos:Concept ;
+    skos:notation "XY",
+        "1.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Statistics & Probability"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/YA> a skos:Concept ;
+    skos:notation "YA",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Surgery"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/YE> a skos:Concept ;
+    skos:notation "YE",
+        "2.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Telecommunications"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/YG> a skos:Concept ;
+    skos:notation "YG",
+        "6.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Theater"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/YI> a skos:Concept ;
+    skos:notation "YI",
+        "6.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Religion"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/YO> a skos:Concept ;
+    skos:notation "YO",
+        "3.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Toxicology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/YP> a skos:Concept ;
+    skos:notation "YP",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Transplantation"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/YQ> a skos:Concept ;
+    skos:notation "YQ",
+        "5.07"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Transportation"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/YR> a skos:Concept ;
+    skos:notation "YR",
+        "2.01"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Transportation Science & Technology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/YU> a skos:Concept ;
+    skos:notation "YU",
+        "3.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Tropical Medicine"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/YY> a skos:Concept ;
+    skos:notation "YY",
+        "5.07"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Urban Studies"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZA> a skos:Concept ;
+    skos:notation "ZA",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Urology & Nephrology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZC> a skos:Concept ;
+    skos:notation "ZC",
+        "4.03"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Veterinary Sciences"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZD> a skos:Concept ;
+    skos:notation "ZD",
+        "3.02"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Peripheral Vascular Disease"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZE> a skos:Concept ;
+    skos:notation "ZE",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Virology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZK> a skos:Concept ;
+    skos:notation "ZK",
+        "5.04"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Women's Studies"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZM> a skos:Concept ;
+    skos:notation "ZM",
+        "1.06"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Zoology"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZQ> a skos:Concept ;
+    skos:notation "ZQ",
+        "2.07"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Mining & Mineral Processing"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZR> a skos:Concept ;
+    skos:notation "ZR",
+        "1.05"^^<urn:tamar:fos-code> ;
+    skos:prefLabel "Water Resources"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/wos> .
+
+<https://w3id.org/tamar/taxonomies/wos> a skos:ConceptScheme ;
+    skos:hasTopConcept <https://w3id.org/tamar/taxonomies/wos/AA>,
+        <https://w3id.org/tamar/taxonomies/wos/AC>,
+        <https://w3id.org/tamar/taxonomies/wos/AD>,
+        <https://w3id.org/tamar/taxonomies/wos/AE>,
+        <https://w3id.org/tamar/taxonomies/wos/AF>,
+        <https://w3id.org/tamar/taxonomies/wos/AH>,
+        <https://w3id.org/tamar/taxonomies/wos/AI>,
+        <https://w3id.org/tamar/taxonomies/wos/AM>,
+        <https://w3id.org/tamar/taxonomies/wos/AQ>,
+        <https://w3id.org/tamar/taxonomies/wos/AY>,
+        <https://w3id.org/tamar/taxonomies/wos/AZ>,
+        <https://w3id.org/tamar/taxonomies/wos/BA>,
+        <https://w3id.org/tamar/taxonomies/wos/BD>,
+        <https://w3id.org/tamar/taxonomies/wos/BF>,
+        <https://w3id.org/tamar/taxonomies/wos/BI>,
+        <https://w3id.org/tamar/taxonomies/wos/BK>,
+        <https://w3id.org/tamar/taxonomies/wos/BM>,
+        <https://w3id.org/tamar/taxonomies/wos/BP>,
+        <https://w3id.org/tamar/taxonomies/wos/BQ>,
+        <https://w3id.org/tamar/taxonomies/wos/BU>,
+        <https://w3id.org/tamar/taxonomies/wos/BV>,
+        <https://w3id.org/tamar/taxonomies/wos/CL>,
+        <https://w3id.org/tamar/taxonomies/wos/CN>,
+        <https://w3id.org/tamar/taxonomies/wos/CO>,
+        <https://w3id.org/tamar/taxonomies/wos/CQ>,
+        <https://w3id.org/tamar/taxonomies/wos/CT>,
+        <https://w3id.org/tamar/taxonomies/wos/CU>,
+        <https://w3id.org/tamar/taxonomies/wos/DA>,
+        <https://w3id.org/tamar/taxonomies/wos/DB>,
+        <https://w3id.org/tamar/taxonomies/wos/DE>,
+        <https://w3id.org/tamar/taxonomies/wos/DI>,
+        <https://w3id.org/tamar/taxonomies/wos/DK>,
+        <https://w3id.org/tamar/taxonomies/wos/DM>,
+        <https://w3id.org/tamar/taxonomies/wos/DQ>,
+        <https://w3id.org/tamar/taxonomies/wos/DR>,
+        <https://w3id.org/tamar/taxonomies/wos/DS>,
+        <https://w3id.org/tamar/taxonomies/wos/DT>,
+        <https://w3id.org/tamar/taxonomies/wos/DW>,
+        <https://w3id.org/tamar/taxonomies/wos/DX>,
+        <https://w3id.org/tamar/taxonomies/wos/DY>,
+        <https://w3id.org/tamar/taxonomies/wos/EA>,
+        <https://w3id.org/tamar/taxonomies/wos/EC>,
+        <https://w3id.org/tamar/taxonomies/wos/EE>,
+        <https://w3id.org/tamar/taxonomies/wos/EI>,
+        <https://w3id.org/tamar/taxonomies/wos/EN>,
+        <https://w3id.org/tamar/taxonomies/wos/EO>,
+        <https://w3id.org/tamar/taxonomies/wos/EP>,
+        <https://w3id.org/tamar/taxonomies/wos/EQ>,
+        <https://w3id.org/tamar/taxonomies/wos/ER>,
+        <https://w3id.org/tamar/taxonomies/wos/ES>,
+        <https://w3id.org/tamar/taxonomies/wos/ET>,
+        <https://w3id.org/tamar/taxonomies/wos/EU>,
+        <https://w3id.org/tamar/taxonomies/wos/EV>,
+        <https://w3id.org/tamar/taxonomies/wos/EW>,
+        <https://w3id.org/tamar/taxonomies/wos/EX>,
+        <https://w3id.org/tamar/taxonomies/wos/FA>,
+        <https://w3id.org/tamar/taxonomies/wos/FE>,
+        <https://w3id.org/tamar/taxonomies/wos/FF>,
+        <https://w3id.org/tamar/taxonomies/wos/FI>,
+        <https://w3id.org/tamar/taxonomies/wos/FS>,
+        <https://w3id.org/tamar/taxonomies/wos/FU>,
+        <https://w3id.org/tamar/taxonomies/wos/FY>,
+        <https://w3id.org/tamar/taxonomies/wos/GA>,
+        <https://w3id.org/tamar/taxonomies/wos/GC>,
+        <https://w3id.org/tamar/taxonomies/wos/GM>,
+        <https://w3id.org/tamar/taxonomies/wos/GU>,
+        <https://w3id.org/tamar/taxonomies/wos/GY>,
+        <https://w3id.org/tamar/taxonomies/wos/HA>,
+        <https://w3id.org/tamar/taxonomies/wos/HB>,
+        <https://w3id.org/tamar/taxonomies/wos/HE>,
+        <https://w3id.org/tamar/taxonomies/wos/HF>,
+        <https://w3id.org/tamar/taxonomies/wos/HI>,
+        <https://w3id.org/tamar/taxonomies/wos/HL>,
+        <https://w3id.org/tamar/taxonomies/wos/HQ>,
+        <https://w3id.org/tamar/taxonomies/wos/HT>,
+        <https://w3id.org/tamar/taxonomies/wos/HY>,
+        <https://w3id.org/tamar/taxonomies/wos/IA>,
+        <https://w3id.org/tamar/taxonomies/wos/ID>,
+        <https://w3id.org/tamar/taxonomies/wos/IF>,
+        <https://w3id.org/tamar/taxonomies/wos/IG>,
+        <https://w3id.org/tamar/taxonomies/wos/IH>,
+        <https://w3id.org/tamar/taxonomies/wos/II>,
+        <https://w3id.org/tamar/taxonomies/wos/IJ>,
+        <https://w3id.org/tamar/taxonomies/wos/IK>,
+        <https://w3id.org/tamar/taxonomies/wos/IL>,
+        <https://w3id.org/tamar/taxonomies/wos/IM>,
+        <https://w3id.org/tamar/taxonomies/wos/IO>,
+        <https://w3id.org/tamar/taxonomies/wos/IP>,
+        <https://w3id.org/tamar/taxonomies/wos/IQ>,
+        <https://w3id.org/tamar/taxonomies/wos/IU>,
+        <https://w3id.org/tamar/taxonomies/wos/IX>,
+        <https://w3id.org/tamar/taxonomies/wos/IY>,
+        <https://w3id.org/tamar/taxonomies/wos/JA>,
+        <https://w3id.org/tamar/taxonomies/wos/JB>,
+        <https://w3id.org/tamar/taxonomies/wos/JI>,
+        <https://w3id.org/tamar/taxonomies/wos/JM>,
+        <https://w3id.org/tamar/taxonomies/wos/JO>,
+        <https://w3id.org/tamar/taxonomies/wos/JS>,
+        <https://w3id.org/tamar/taxonomies/wos/JU>,
+        <https://w3id.org/tamar/taxonomies/wos/JW>,
+        <https://w3id.org/tamar/taxonomies/wos/JY>,
+        <https://w3id.org/tamar/taxonomies/wos/KA>,
+        <https://w3id.org/tamar/taxonomies/wos/KI>,
+        <https://w3id.org/tamar/taxonomies/wos/KM>,
+        <https://w3id.org/tamar/taxonomies/wos/KU>,
+        <https://w3id.org/tamar/taxonomies/wos/KV>,
+        <https://w3id.org/tamar/taxonomies/wos/KY>,
+        <https://w3id.org/tamar/taxonomies/wos/LE>,
+        <https://w3id.org/tamar/taxonomies/wos/LI>,
+        <https://w3id.org/tamar/taxonomies/wos/LJ>,
+        <https://w3id.org/tamar/taxonomies/wos/LQ>,
+        <https://w3id.org/tamar/taxonomies/wos/MA>,
+        <https://w3id.org/tamar/taxonomies/wos/MC>,
+        <https://w3id.org/tamar/taxonomies/wos/ML>,
+        <https://w3id.org/tamar/taxonomies/wos/MM>,
+        <https://w3id.org/tamar/taxonomies/wos/MQ>,
+        <https://w3id.org/tamar/taxonomies/wos/MR>,
+        <https://w3id.org/tamar/taxonomies/wos/MU>,
+        <https://w3id.org/tamar/taxonomies/wos/MW>,
+        <https://w3id.org/tamar/taxonomies/wos/MY>,
+        <https://w3id.org/tamar/taxonomies/wos/NE>,
+        <https://w3id.org/tamar/taxonomies/wos/NI>,
+        <https://w3id.org/tamar/taxonomies/wos/NM>,
+        <https://w3id.org/tamar/taxonomies/wos/NN>,
+        <https://w3id.org/tamar/taxonomies/wos/NQ>,
+        <https://w3id.org/tamar/taxonomies/wos/NS>,
+        <https://w3id.org/tamar/taxonomies/wos/NU>,
+        <https://w3id.org/tamar/taxonomies/wos/OA>,
+        <https://w3id.org/tamar/taxonomies/wos/OE>,
+        <https://w3id.org/tamar/taxonomies/wos/OI>,
+        <https://w3id.org/tamar/taxonomies/wos/OM>,
+        <https://w3id.org/tamar/taxonomies/wos/OO>,
+        <https://w3id.org/tamar/taxonomies/wos/OP>,
+        <https://w3id.org/tamar/taxonomies/wos/OR>,
+        <https://w3id.org/tamar/taxonomies/wos/OT>,
+        <https://w3id.org/tamar/taxonomies/wos/OU>,
+        <https://w3id.org/tamar/taxonomies/wos/OX>,
+        <https://w3id.org/tamar/taxonomies/wos/OY>,
+        <https://w3id.org/tamar/taxonomies/wos/OZ>,
+        <https://w3id.org/tamar/taxonomies/wos/PA>,
+        <https://w3id.org/tamar/taxonomies/wos/PC>,
+        <https://w3id.org/tamar/taxonomies/wos/PD>,
+        <https://w3id.org/tamar/taxonomies/wos/PE>,
+        <https://w3id.org/tamar/taxonomies/wos/PF>,
+        <https://w3id.org/tamar/taxonomies/wos/PG>,
+        <https://w3id.org/tamar/taxonomies/wos/PH>,
+        <https://w3id.org/tamar/taxonomies/wos/PI>,
+        <https://w3id.org/tamar/taxonomies/wos/PJ>,
+        <https://w3id.org/tamar/taxonomies/wos/PK>,
+        <https://w3id.org/tamar/taxonomies/wos/PM>,
+        <https://w3id.org/tamar/taxonomies/wos/PN>,
+        <https://w3id.org/tamar/taxonomies/wos/PO>,
+        <https://w3id.org/tamar/taxonomies/wos/PQ>,
+        <https://w3id.org/tamar/taxonomies/wos/PS>,
+        <https://w3id.org/tamar/taxonomies/wos/PT>,
+        <https://w3id.org/tamar/taxonomies/wos/PU>,
+        <https://w3id.org/tamar/taxonomies/wos/PW>,
+        <https://w3id.org/tamar/taxonomies/wos/PY>,
+        <https://w3id.org/tamar/taxonomies/wos/PZ>,
+        <https://w3id.org/tamar/taxonomies/wos/QA>,
+        <https://w3id.org/tamar/taxonomies/wos/QC>,
+        <https://w3id.org/tamar/taxonomies/wos/QD>,
+        <https://w3id.org/tamar/taxonomies/wos/QE>,
+        <https://w3id.org/tamar/taxonomies/wos/QF>,
+        <https://w3id.org/tamar/taxonomies/wos/QG>,
+        <https://w3id.org/tamar/taxonomies/wos/QH>,
+        <https://w3id.org/tamar/taxonomies/wos/QJ>,
+        <https://w3id.org/tamar/taxonomies/wos/QK>,
+        <https://w3id.org/tamar/taxonomies/wos/QL>,
+        <https://w3id.org/tamar/taxonomies/wos/QQ>,
+        <https://w3id.org/tamar/taxonomies/wos/QU>,
+        <https://w3id.org/tamar/taxonomies/wos/RA>,
+        <https://w3id.org/tamar/taxonomies/wos/RB>,
+        <https://w3id.org/tamar/taxonomies/wos/RE>,
+        <https://w3id.org/tamar/taxonomies/wos/RO>,
+        <https://w3id.org/tamar/taxonomies/wos/RP>,
+        <https://w3id.org/tamar/taxonomies/wos/RQ>,
+        <https://w3id.org/tamar/taxonomies/wos/RT>,
+        <https://w3id.org/tamar/taxonomies/wos/RU>,
+        <https://w3id.org/tamar/taxonomies/wos/RX>,
+        <https://w3id.org/tamar/taxonomies/wos/RY>,
+        <https://w3id.org/tamar/taxonomies/wos/RZ>,
+        <https://w3id.org/tamar/taxonomies/wos/SA>,
+        <https://w3id.org/tamar/taxonomies/wos/SD>,
+        <https://w3id.org/tamar/taxonomies/wos/SI>,
+        <https://w3id.org/tamar/taxonomies/wos/SR>,
+        <https://w3id.org/tamar/taxonomies/wos/SU>,
+        <https://w3id.org/tamar/taxonomies/wos/SY>,
+        <https://w3id.org/tamar/taxonomies/wos/TA>,
+        <https://w3id.org/tamar/taxonomies/wos/TC>,
+        <https://w3id.org/tamar/taxonomies/wos/TD>,
+        <https://w3id.org/tamar/taxonomies/wos/TE>,
+        <https://w3id.org/tamar/taxonomies/wos/TI>,
+        <https://w3id.org/tamar/taxonomies/wos/TM>,
+        <https://w3id.org/tamar/taxonomies/wos/TQ>,
+        <https://w3id.org/tamar/taxonomies/wos/TU>,
+        <https://w3id.org/tamar/taxonomies/wos/UA>,
+        <https://w3id.org/tamar/taxonomies/wos/UB>,
+        <https://w3id.org/tamar/taxonomies/wos/UE>,
+        <https://w3id.org/tamar/taxonomies/wos/UF>,
+        <https://w3id.org/tamar/taxonomies/wos/UH>,
+        <https://w3id.org/tamar/taxonomies/wos/UI>,
+        <https://w3id.org/tamar/taxonomies/wos/UK>,
+        <https://w3id.org/tamar/taxonomies/wos/UM>,
+        <https://w3id.org/tamar/taxonomies/wos/UN>,
+        <https://w3id.org/tamar/taxonomies/wos/UP>,
+        <https://w3id.org/tamar/taxonomies/wos/UQ>,
+        <https://w3id.org/tamar/taxonomies/wos/UR>,
+        <https://w3id.org/tamar/taxonomies/wos/UT>,
+        <https://w3id.org/tamar/taxonomies/wos/UU>,
+        <https://w3id.org/tamar/taxonomies/wos/UY>,
+        <https://w3id.org/tamar/taxonomies/wos/VE>,
+        <https://w3id.org/tamar/taxonomies/wos/VI>,
+        <https://w3id.org/tamar/taxonomies/wos/VJ>,
+        <https://w3id.org/tamar/taxonomies/wos/VM>,
+        <https://w3id.org/tamar/taxonomies/wos/VP>,
+        <https://w3id.org/tamar/taxonomies/wos/VS>,
+        <https://w3id.org/tamar/taxonomies/wos/VX>,
+        <https://w3id.org/tamar/taxonomies/wos/VY>,
+        <https://w3id.org/tamar/taxonomies/wos/WC>,
+        <https://w3id.org/tamar/taxonomies/wos/WE>,
+        <https://w3id.org/tamar/taxonomies/wos/WF>,
+        <https://w3id.org/tamar/taxonomies/wos/WH>,
+        <https://w3id.org/tamar/taxonomies/wos/WM>,
+        <https://w3id.org/tamar/taxonomies/wos/WQ>,
+        <https://w3id.org/tamar/taxonomies/wos/WU>,
+        <https://w3id.org/tamar/taxonomies/wos/WV>,
+        <https://w3id.org/tamar/taxonomies/wos/WY>,
+        <https://w3id.org/tamar/taxonomies/wos/XA>,
+        <https://w3id.org/tamar/taxonomies/wos/XE>,
+        <https://w3id.org/tamar/taxonomies/wos/XQ>,
+        <https://w3id.org/tamar/taxonomies/wos/XW>,
+        <https://w3id.org/tamar/taxonomies/wos/XY>,
+        <https://w3id.org/tamar/taxonomies/wos/YA>,
+        <https://w3id.org/tamar/taxonomies/wos/YE>,
+        <https://w3id.org/tamar/taxonomies/wos/YG>,
+        <https://w3id.org/tamar/taxonomies/wos/YI>,
+        <https://w3id.org/tamar/taxonomies/wos/YO>,
+        <https://w3id.org/tamar/taxonomies/wos/YP>,
+        <https://w3id.org/tamar/taxonomies/wos/YQ>,
+        <https://w3id.org/tamar/taxonomies/wos/YR>,
+        <https://w3id.org/tamar/taxonomies/wos/YU>,
+        <https://w3id.org/tamar/taxonomies/wos/YY>,
+        <https://w3id.org/tamar/taxonomies/wos/ZA>,
+        <https://w3id.org/tamar/taxonomies/wos/ZC>,
+        <https://w3id.org/tamar/taxonomies/wos/ZD>,
+        <https://w3id.org/tamar/taxonomies/wos/ZE>,
+        <https://w3id.org/tamar/taxonomies/wos/ZK>,
+        <https://w3id.org/tamar/taxonomies/wos/ZM>,
+        <https://w3id.org/tamar/taxonomies/wos/ZQ>,
+        <https://w3id.org/tamar/taxonomies/wos/ZR> ;
+    skos:prefLabel "Web of Science Subject Categories"@en .
+

@@ -1,0 +1,250 @@
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification
+wos:AA	Acoustics	skos:exactMatch	oecd:31048484	Acoustics	semapv:ManualMappingCuration
+wos:AF	Agricultural Economics & Policy	skos:broadMatch	oecd:31050900	Agricultural economics	semapv:ManualMappingCuration
+wos:AE	Agricultural Engineering	skos:exactMatch	oecd:31050883	Agricultural engineering	semapv:ManualMappingCuration
+wos:AH	Agriculture, Multidisciplinary	skos:broadMatch	oecd:31049860	Agriculture	semapv:ManualMappingCuration
+wos:AD	Agriculture, Dairy & Animal Science	skos:broadMatch	oecd:31050826	Animal and dairy science	semapv:ManualMappingCuration
+wos:AM	Agronomy	skos:exactMatch	oecd:31050788	Agronomy	semapv:ManualMappingCuration
+wos:AQ	Allergy	skos:exactMatch	oecd:31050444	Allergy	semapv:ManualMappingCuration
+wos:AY	Anatomy & Morphology	skos:exactMatch	oecd:31050293	Anatomy and morphology	semapv:ManualMappingCuration
+wos:AZ	Andrology	skos:exactMatch	oecd:31050381	Andrology	semapv:ManualMappingCuration
+wos:BA	Anesthesiology	skos:broadMatch	oecd:31050415	Anaesthesiology	semapv:ManualMappingCuration
+wos:BF	Anthropology	skos:broadMatch	oecd:31051011	Anthropology, ethnology	semapv:ManualMappingCuration
+wos:BI	Archaeology	skos:exactMatch	oecd:31051152	Archaeology	semapv:ManualMappingCuration
+wos:BK	Architecture	skos:broadMatch	oecd:31051190	Arts (arts, history of arts, performing arts, music)	semapv:ManualMappingCuration
+wos:BM	Area Studies	skos:broadMatch	oecd:31051068	Social and economic geography	semapv:ManualMappingCuration
+wos:BP	Art	skos:broadMatch	oecd:31051191	Arts, Art history	semapv:ManualMappingCuration
+wos:OR	Asian Studies	skos:broadMatch	oecd:31051107	Other social sciences	semapv:ManualMappingCuration
+wos:BU	Astronomy & Astrophysics	skos:broadMatch	oecd:31048485	Astronomy (including astrophysics, space science)	semapv:ManualMappingCuration
+wos:CL	Audiology & Speech-language Pathology	skos:broadMatch	oecd:31050477	Audiology	semapv:ManualMappingCuration
+wos:AC	Automation & Control Systems	skos:exactMatch	oecd:31049126	Automation and control systems	semapv:ManualMappingCuration
+wos:CN	Behavioral Sciences	skos:broadMatch	oecd:31050923	Behavioural sciences	semapv:ManualMappingCuration
+wos:CO	Biochemical Research Methods	skos:exactMatch	oecd:31048846	Biochemical research methods	semapv:ManualMappingCuration
+wos:CQ	Biochemistry & Molecular Biology	skos:exactMatch	oecd:31048817	Biochemistry and molecular biology	semapv:ManualMappingCuration
+wos:BD	Biodiversity Conservation	skos:broadMatch	oecd:31049007	Biodiversity, conservation biology, conservation genetics, invasion biology	semapv:ManualMappingCuration
+wos:CU	Biology	skos:broadMatch	oecd:31049013	Biology (theoretical, mathematical, thermal, cryobiology, biological rhythm), Evolutionary biology	semapv:ManualMappingCuration
+wos:DA	Biophysics	skos:exactMatch	oecd:31048849	Biophysics	semapv:ManualMappingCuration
+wos:DB	Biotechnology & Applied Microbiology	skos:broadMatch	oecd:31049425	Biotechnology (non-medical), bioreactors, applied microbiology	semapv:ManualMappingCuration
+wos:DI	Business	skos:broadMatch	oecd:31050967	Business and Management	semapv:ManualMappingCuration
+wos:DK	Business, Finance	skos:broadMatch	oecd:31050945	Economics and Business	semapv:ManualMappingCuration
+wos:DQ	Cardiac & Cardiovascular Systems	skos:exactMatch	oecd:31050386	Cardiac and Cardiovascular systems	semapv:ManualMappingCuration
+wos:CT	Cell & Tissue Engineering	skos:broadMatch	oecd:31050705	Tissue engineering	semapv:ManualMappingCuration
+wos:DR	Cell Biology	skos:broadMatch	oecd:31048788	Cell biology, Microbiology	semapv:ManualMappingCuration
+wos:EA	Chemistry, Analytical	skos:exactMatch	oecd:31048584	Analytical chemistry	semapv:ManualMappingCuration
+wos:DW	Chemistry, Applied	skos:broadMatch	oecd:31048534	Chemical sciences	semapv:ManualMappingCuration
+wos:EC	Chemistry, Inorganic & Nuclear	skos:exactMatch	oecd:31048550	Inorganic and nuclear chemistry	semapv:ManualMappingCuration
+wos:DY	Chemistry, Multidisciplinary	skos:broadMatch	oecd:31048534	Chemical sciences	semapv:ManualMappingCuration
+wos:EI	Chemistry, Physical	skos:exactMatch	oecd:31048561	Physical chemistry	semapv:ManualMappingCuration
+wos:DX	Chemistry, Medicinal	skos:exactMatch	oecd:31050727	Medicinal chemistry	semapv:ManualMappingCuration
+wos:EE	Chemistry, Organic	skos:exactMatch	oecd:31048535	Organic chemistry	semapv:ManualMappingCuration
+wos:EO	Classics	skos:broadMatch	oecd:31051169	Classics, ancient Greek and Latin literature and art	semapv:ManualMappingCuration
+wos:RT	Clinical Neurology	skos:exactMatch	oecd:31050486	Clinical neurology	semapv:ManualMappingCuration
+wos:EU	Communication	skos:broadMatch	oecd:31051096	Media and communications	semapv:ManualMappingCuration
+wos:EP	Computer Science, Artificial Intelligence	skos:broadMatch	oecd:31048410	Artificial intelligence, intelligent systems, multi agent systems	semapv:ManualMappingCuration
+wos:ER	Computer Science, Cybernetics	skos:broadMatch	oecd:31049121	Intelligent robotics, cybernetics	semapv:ManualMappingCuration
+wos:ET	Computer Science, Information Systems	skos:broadMatch	oecd:31048414	Web and information systems, database systems, information retrieval and digital libraries, data fusion	semapv:ManualMappingCuration
+wos:EV	Computer Science, Interdisciplinary Applications	skos:broadMatch	oecd:31048394	Computer and information sciences	semapv:ManualMappingCuration
+wos:EW	Computer Science, Software Engineering	skos:broadMatch	oecd:31048406	Software engineering, operating systems, computer languages	semapv:ManualMappingCuration
+wos:ES	Computer Science, Hardware & Architecture	skos:broadMatch	oecd:31049144	Computer hardware and architecture	semapv:ManualMappingCuration
+wos:EX	Computer Science, Theory & Methods	skos:broadMatch	oecd:31048407	Theoretical computer science, formal methods, quantum computing	semapv:ManualMappingCuration
+wos:FA	Construction & Building Technology	skos:broadMatch	oecd:31049063	Construction engineering, Municipal and structural engineering	semapv:ManualMappingCuration
+wos:FE	Criminology & Penology	skos:broadMatch	oecd:31051025	Law, criminology, penology	semapv:ManualMappingCuration
+wos:DS	Critical Care Medicine	skos:broadMatch	oecd:31050412	Critical care medicine and Emergency medicine	semapv:ManualMappingCuration
+wos:FI	Crystallography	skos:broadMatch	oecd:31048611	Crystallography and X-ray diffraction	semapv:ManualMappingCuration
+wos:EN	Cultural Studies	skos:broadMatch	oecd:31051101	Cultural studies, cultural diversity	semapv:ManualMappingCuration
+wos:FS	Dance	skos:broadMatch	oecd:31051201	Performing arts studies (Musicology, Theater science, Dramaturgy)	semapv:ManualMappingCuration
+wos:FU	Demography	skos:exactMatch	oecd:31051009	Demography	semapv:ManualMappingCuration
+wos:FY	Dentistry, Oral Surgery & Medicine	skos:exactMatch	oecd:31050438	Dentistry, oral surgery and medicine	semapv:ManualMappingCuration
+wos:GA	Dermatology	skos:broadMatch	oecd:31050443	Dermatology and venereal diseases	semapv:ManualMappingCuration
+wos:HY	Developmental Biology	skos:exactMatch	oecd:31048887	Developmental biology	semapv:ManualMappingCuration
+wos:GU	Ecology	skos:exactMatch	oecd:31048971	Ecology	semapv:ManualMappingCuration
+wos:GY	Economics	skos:broadMatch	oecd:31050946	Economics, Econometrics	semapv:ManualMappingCuration
+wos:HA	Education & Educational Research	skos:broadMatch	oecd:31050983	Educational sciences	semapv:ManualMappingCuration
+wos:HB	Education, Scientific Disciplines	skos:broadMatch	oecd:31051056	Science education	semapv:ManualMappingCuration
+wos:HE	Education, Special	skos:broadMatch	oecd:31050999	Education, special (to gifted persons, those with learning disabilities)	semapv:ManualMappingCuration
+wos:HQ	Electrochemistry	skos:broadMatch	oecd:31048578	Electrochemistry, electrodialysis, microfluidics, sensors	semapv:ManualMappingCuration
+wos:FF	Emergency Medicine	skos:exactMatch	oecd:31050413	Emergency medicine	semapv:ManualMappingCuration
+wos:IA	Endocrinology & Metabolism	skos:broadMatch	oecd:31050447	Endocrinology and metabolism (including diabetes, hormones)	semapv:ManualMappingCuration
+wos:ID	Energy & Fuels	skos:broadMatch	oecd:31053953	Environmental engineering	semapv:ManualMappingCuration
+wos:IG	Engineering, Biomedical	skos:broadMatch	oecd:31049202	Medical engineering, biomedical engineering and technology	semapv:ManualMappingCuration
+wos:II	Engineering, Chemical	skos:exactMatch	oecd:31049178	Chemical engineering	semapv:ManualMappingCuration
+wos:IQ	Engineering, Electrical & Electronic	skos:exactMatch	oecd:31049118	Electrical and electronic engineering	semapv:ManualMappingCuration
+wos:IH	Engineering, Environmental	skos:exactMatch	oecd:31053953	Environmental engineering	semapv:ManualMappingCuration
+wos:IF	Engineering, Multidisciplinary	skos:broadMatch	oecd:31049441	Other engineering and technologies	semapv:ManualMappingCuration
+wos:AI	Engineering, Aerospace	skos:exactMatch	oecd:31049175	Aerospace engineering	semapv:ManualMappingCuration
+wos:IM	Engineering, Civil	skos:exactMatch	oecd:31049044	Civil engineering	semapv:ManualMappingCuration
+wos:IH	Engineering, Environmental	skos:broadMatch	oecd:31049213	Environmental and geological engineering, geotechnics	semapv:ManualMappingCuration
+wos:IX	Engineering, Geological	skos:broadMatch	oecd:31049213	Environmental and geological engineering, geotechnics	semapv:ManualMappingCuration
+wos:IJ	Engineering, Industrial	skos:broadMatch	oecd:31049441	Other engineering and technologies	semapv:ManualMappingCuration
+wos:IK	Engineering, Manufacturing	skos:broadMatch	oecd:31049148	Mechanical and manufacturing engineering (shaping, mounting, joining, separation)	semapv:ManualMappingCuration
+wos:IL	Engineering, Marine	skos:exactMatch	oecd:31049401	Marine engineering	semapv:ManualMappingCuration
+wos:IU	Engineering, Mechanical	skos:exactMatch	oecd:31049147	Mechanical engineering	semapv:ManualMappingCuration
+wos:IO	Engineering, Ocean	skos:exactMatch	oecd:31049151	Ocean engineering	semapv:ManualMappingCuration
+wos:IP	Engineering, Petroleum	skos:broadMatch	oecd:31049218	Energy, fuels and petroleum engineering	semapv:ManualMappingCuration
+wos:IY	Entomology	skos:exactMatch	oecd:31048942	Entomology	semapv:ManualMappingCuration
+wos:JA	Environmental Sciences	skos:exactMatch	oecd:31048669	Environmental sciences	semapv:ManualMappingCuration
+wos:JB	Environmental Studies	skos:broadMatch	oecd:31048669	Environmental sciences	semapv:ManualMappingCuration
+wos:JI	Ergonomics	skos:broadMatch	oecd:31050128	Ergonomic and Human factors	semapv:ManualMappingCuration
+wos:HF	Ethics	skos:broadMatch	oecd:31051186	Ethics (except ethics related to specific subfields)	semapv:ManualMappingCuration
+wos:JM	Ethnic Studies	skos:broadMatch	oecd:31051012	Ethnography	semapv:ManualMappingCuration
+wos:HT	Evolutionary Biology	skos:exactMatch	oecd:31049014	Evolutionary biology	semapv:ManualMappingCuration
+wos:JO	Family Studies	skos:broadMatch	oecd:31051023	Family studies, Social work	semapv:ManualMappingCuration
+wos:JS	Film, Radio, Television	skos:broadMatch	oecd:31051204	Studies on Film, Radio and Television	semapv:ManualMappingCuration
+wos:JU	Fisheries	skos:broadMatch	oecd:31048692	Aquaculture, fisheries	semapv:ManualMappingCuration
+wos:JW	Folklore	skos:broadMatch	oecd:31051203	Folklore studies	semapv:ManualMappingCuration
+wos:JY	Food Science & Technology	skos:broadMatch	oecd:31049443	Food sciences	semapv:ManualMappingCuration
+wos:KA	Forestry	skos:exactMatch	oecd:31049346	Forestry	semapv:ManualMappingCuration
+wos:KI	Gastroenterology & Hepatology	skos:exactMatch	oecd:31050466	Gastroenterology and hepatology	semapv:ManualMappingCuration
+wos:KM	Genetics & Heredity	skos:exactMatch	oecd:31048863	Genetics and heredity	semapv:ManualMappingCuration
+wos:GC	Geochemistry & Geophysics	skos:exactMatch	oecd:31048658	Geochemistry and geophysics	semapv:ManualMappingCuration
+wos:KU	Geography	skos:broadMatch	oecd:31048641	Earth and related Environmental sciences	semapv:ManualMappingCuration
+wos:KV	Geography, Physical	skos:exactMatch	oecd:31048662	Physical geography	semapv:ManualMappingCuration
+wos:KY	Geology	skos:exactMatch	oecd:31048664	Geology	semapv:ManualMappingCuration
+wos:LE	Geosciences, Multidisciplinary	skos:exactMatch	oecd:31048642	Geosciences, multidisciplinary	semapv:ManualMappingCuration
+wos:LI	Geriatrics & Gerontology	skos:exactMatch	oecd:31050487	Geriatrics and gerontology	semapv:ManualMappingCuration
+wos:LJ	Gerontology	skos:broadMatch	oecd:31050487	Geriatrics and gerontology	semapv:ManualMappingCuration
+wos:HL	Health Care Sciences & Services	skos:broadMatch	oecd:31050511	Health care sciences and services (including hospital administration, health care financing)	semapv:ManualMappingCuration
+wos:LQ	Health Policy & Services	skos:exactMatch	oecd:31050531	Health policy and services	semapv:ManualMappingCuration
+wos:MA	Hematology	skos:exactMatch	oecd:31050410	Hematology	semapv:ManualMappingCuration
+wos:MM	History	skos:exactMatch	oecd:31051121	History	semapv:ManualMappingCuration
+wos:MQ	History & Philosophy of Science	skos:broadMatch	oecd:31051135	History of science and technology	semapv:ManualMappingCuration
+wos:MR	History of Social Sciences	skos:broadMatch	oecd:31051120	History and Archaeology	semapv:ManualMappingCuration
+wos:MU	Horticulture	skos:broadMatch	oecd:31050779	Horticulture, viticulture	semapv:ManualMappingCuration
+wos:MW	Hospitality, Leisure, Sport & Tourism	skos:broadMatch	oecd:31051107	Other social sciences	semapv:ManualMappingCuration
+wos:BQ	Humanities, Multidisciplinary	skos:broadMatch	oecd:31051205	Other humanities	semapv:ManualMappingCuration
+wos:UE	Imaging Science & Photographic Technology	skos:broadMatch	oecd:31049441	Other engineering and technologies	semapv:ManualMappingCuration
+wos:NI	Immunology	skos:exactMatch	oecd:31050306	Immunology	semapv:ManualMappingCuration
+wos:NM	Industrial Relations & Labor	skos:broadMatch	oecd:31050964	Industrial relations	semapv:ManualMappingCuration
+wos:NN	Infectious Diseases	skos:exactMatch	oecd:31050610	Infectious diseases	semapv:ManualMappingCuration
+wos:NU	Information Science & Library Science	skos:broadMatch	oecd:31051099	Library science	semapv:ManualMappingCuration
+wos:OA	Instruments & Instrumentation	skos:broadMatch	oecd:31048631	Instrumentation and Instrumental techniques	semapv:ManualMappingCuration
+wos:OI	Integrative & Complementary Medicine	skos:broadMatch	oecd:31050501	Integrative and complementary medicine (alternative practice systems)	semapv:ManualMappingCuration
+wos:OE	International Relations	skos:exactMatch	oecd:31051029	International relations	semapv:ManualMappingCuration
+wos:OY	Language & Linguistics	skos:broadMatch	oecd:31051175	Linguistics	semapv:ManualMappingCuration
+wos:OM	Law	skos:broadMatch	oecd:31051025	Law, criminology, penology	semapv:ManualMappingCuration
+wos:OU	Limnology	skos:exactMatch	oecd:31048970	Limnology	semapv:ManualMappingCuration
+wos:OT	Linguistics	skos:exactMatch	oecd:31051175	Linguistics	semapv:ManualMappingCuration
+wos:OZ	Literary Reviews	skos:broadMatch	oecd:31051164	Languages and Literature	semapv:ManualMappingCuration
+wos:OX	Literary Theory & Criticism	skos:broadMatch	oecd:31051164	Languages and Literature	semapv:ManualMappingCuration
+wos:PA	Literature	skos:broadMatch	oecd:31051164	Languages and Literature	semapv:ManualMappingCuration
+wos:PG	Literature, British Isles	skos:broadMatch	oecd:31051164	Languages and Literature	semapv:ManualMappingCuration
+wos:PH	Literature, German, Dutch, Scandinavian	skos:broadMatch	oecd:31051164	Languages and Literature	semapv:ManualMappingCuration
+wos:QC	Literature, Romance	skos:broadMatch	oecd:31051164	Languages and Literature	semapv:ManualMappingCuration
+wos:QD	Literature, Slavic	skos:broadMatch	oecd:31051164	Languages and Literature	semapv:ManualMappingCuration
+wos:QL	Logic	skos:broadMatch	oecd:31048367	Logic and foundations	semapv:ManualMappingCuration
+wos:PC	Management	skos:broadMatch	oecd:31050945	Economics and Business	semapv:ManualMappingCuration
+wos:PI	Marine & Freshwater Biology	skos:broadMatch	oecd:31048964	Freshwater biology	semapv:ManualMappingCuration
+wos:PM	Materials Science, Multidisciplinary	skos:broadMatch	oecd:31049183	Materials engineering	semapv:ManualMappingCuration
+wos:QE	Materials Science, Biomaterials	skos:broadMatch	oecd:31050713	Biomaterials (as related to medical implants, devices, sensors)	semapv:ManualMappingCuration
+wos:PK	Materials Science, Ceramics	skos:broadMatch	oecd:31049192	Ceramics	semapv:ManualMappingCuration
+wos:QF	Materials Science, Characterization & Testing	skos:broadMatch	oecd:31049438	Characterization methods of materials	semapv:ManualMappingCuration
+wos:QG	Materials Science, Coatings & Films	skos:broadMatch	oecd:31049193	Coating and films	semapv:ManualMappingCuration
+wos:QH	Materials Science, Composites	skos:broadMatch	oecd:31049198	Composites (including laminates, reinforced plastics, cermets, combined natural and synthetic fibre fabrics filled composites)	semapv:ManualMappingCuration
+wos:PJ	Materials Science, Paper & Wood	skos:broadMatch	oecd:31049200	Paper and wood	semapv:ManualMappingCuration
+wos:QJ	Materials Science, Textiles	skos:broadMatch	oecd:31049201	Textiles including synthetic dyes, colours, fibres	semapv:ManualMappingCuration
+wos:MC	Mathematical & Computational Biology	skos:broadMatch	oecd:31048854	Computational biology	semapv:ManualMappingCuration
+wos:PQ	Mathematics	skos:exactMatch	oecd:31048365	Mathematics	semapv:ManualMappingCuration
+wos:PN	Mathematics, Applied	skos:broadMatch	oecd:31048366	Pure mathematics, Applied mathematics	semapv:ManualMappingCuration
+wos:PO	Mathematics, Interdisciplinary Applications	skos:broadMatch	oecd:31048365	Mathematics	semapv:ManualMappingCuration
+wos:PU	Mechanics	skos:broadMatch	oecd:31049173	Applied mechanics	semapv:ManualMappingCuration
+wos:OO	Medical Ethics	skos:exactMatch	oecd:31050696	Medical ethics	semapv:ManualMappingCuration
+wos:PW	Medical Laboratory Technology	skos:broadMatch	oecd:31049203	Medical engineering	semapv:ManualMappingCuration
+wos:PY	Medicine, General & Internal	skos:broadMatch	oecd:31050380	Clinical medicine	semapv:ManualMappingCuration
+wos:QA	Medicine, Research & Experimental	skos:broadMatch	oecd:31050292	Basic medicine	semapv:ManualMappingCuration
+wos:OP	Medicine, Legal	skos:broadMatch	oecd:31050510	Health sciences	semapv:ManualMappingCuration
+wos:QK	Medieval & Renaissance Studies	skos:broadMatch	oecd:31051126	Medieval history	semapv:ManualMappingCuration
+wos:PZ	Metallurgy & Metallurgical Engineering	skos:broadMatch	oecd:31049164	Metallurgy	semapv:ManualMappingCuration
+wos:QQ	Meteorology & Atmospheric Sciences	skos:exactMatch	oecd:31048673	Meteorology and atmospheric sciences	semapv:ManualMappingCuration
+wos:QU	Microbiology	skos:exactMatch	oecd:31048789	Microbiology	semapv:ManualMappingCuration
+wos:RA	Microscopy	skos:exactMatch	oecd:31048605	Microscopy	semapv:ManualMappingCuration
+wos:RE	Mineralogy	skos:exactMatch	oecd:31048649	Mineralogy	semapv:ManualMappingCuration
+wos:ZQ	Mining & Mineral Processing	skos:exactMatch	oecd:31049400	Mining and mineral processing	semapv:ManualMappingCuration
+wos:RO	Multidisciplinary Sciences	skos:broadMatch	oecd:31049036	Other natural sciences	semapv:ManualMappingCuration
+wos:RP	Music	skos:broadMatch	oecd:31051202	Music and musicology, history of music	semapv:ManualMappingCuration
+wos:RQ	Mycology	skos:exactMatch	oecd:31048848	Mycology	semapv:ManualMappingCuration
+wos:NS	Nanoscience & Nanotechnology	skos:broadMatch	oecd:31049436	Nano-technology	semapv:ManualMappingCuration
+wos:RX	Neuroimaging	skos:broadMatch	oecd:31048426	Neuroimaging and computational neuroscience	semapv:ManualMappingCuration
+wos:RU	Neurosciences	skos:broadMatch	oecd:31050318	Neurosciences (including psychophysiology)	semapv:ManualMappingCuration
+wos:RY	Nuclear Science & Technology	skos:broadMatch	oecd:31049147	Mechanical engineering	semapv:ManualMappingCuration
+wos:RZ	Nursing	skos:exactMatch	oecd:31050535	Nursing	semapv:ManualMappingCuration
+wos:SA	Nutrition & Dietetics	skos:exactMatch	oecd:31050536	Nutrition, Dietetics	semapv:ManualMappingCuration
+wos:SD	Obstetrics & Gynecology	skos:broadMatch	oecd:31050382	Obstetrics and gynaecology	semapv:ManualMappingCuration
+wos:SI	Oceanography	skos:exactMatch	oecd:31048680	Oceanography	semapv:ManualMappingCuration
+wos:DM	Oncology	skos:exactMatch	oecd:31050470	Oncology	semapv:ManualMappingCuration
+wos:PE	Operations Research & Management Science	skos:broadMatch	oecd:31050945	Economics and Business	semapv:ManualMappingCuration
+wos:SU	Ophthalmology	skos:exactMatch	oecd:31050475	Ophthalmology	semapv:ManualMappingCuration
+wos:SY	Optics	skos:broadMatch	oecd:31048479	Optics (including laser optics and quantum optics)	semapv:ManualMappingCuration
+wos:TA	Ornithology	skos:broadMatch	oecd:31048930	Zoology, Ornithology, Entomology, Behavioural sciences biology	semapv:ManualMappingCuration
+wos:TC	Orthopedics	skos:broadMatch	oecd:31050416	Orthopaedics	semapv:ManualMappingCuration
+wos:TD	Otorhinolaryngology	skos:exactMatch	oecd:31050476	Otorhinolaryngology	semapv:ManualMappingCuration
+wos:TE	Paleontology	skos:broadMatch	oecd:31048653	Palaeontology	semapv:ManualMappingCuration
+wos:TI	Parasitology	skos:exactMatch	oecd:31048806	Parasitology	semapv:ManualMappingCuration
+wos:TM	Pathology	skos:exactMatch	oecd:31050376	Pathology	semapv:ManualMappingCuration
+wos:TQ	Pediatrics	skos:broadMatch	oecd:31050385	Paediatrics	semapv:ManualMappingCuration
+wos:ZD	Peripheral Vascular Disease	skos:exactMatch	oecd:31050409	Peripheral vascular disease	semapv:ManualMappingCuration
+wos:TU	Pharmacology & Pharmacy	skos:exactMatch	oecd:31050342	Pharmacology and pharmacy	semapv:ManualMappingCuration
+wos:UA	Philosophy	skos:broadMatch	oecd:31051182	Philosophy, History and philosophy of science and technology	semapv:ManualMappingCuration
+wos:UK	Physics, Condensed Matter	skos:broadMatch	oecd:31048442	Condensed matter physics (including formerly solid state physics, superconductivity)	semapv:ManualMappingCuration
+wos:UI	Physics, Multidisciplinary	skos:broadMatch	oecd:31048432	Physical sciences	semapv:ManualMappingCuration
+wos:UB	Physics, Applied	skos:broadMatch	oecd:31048432	Physical sciences	semapv:ManualMappingCuration
+wos:UH	Physics, Atomic, Molecular & Chemical	skos:broadMatch	oecd:31048433	Atomic, molecular and chemical physics (physics of atoms and molecules including collision, interaction with radiation magnetic resonances Moessbauer effect)	semapv:ManualMappingCuration
+wos:UF	Physics, Fluids & Plasmas	skos:broadMatch	oecd:31048474	Fluids and plasma physics (including surface physics)	semapv:ManualMappingCuration
+wos:UR	Physics, Mathematical	skos:exactMatch	oecd:31048379	Mathematical physics	semapv:ManualMappingCuration
+wos:UN	Physics, Nuclear	skos:exactMatch	oecd:31048472	Nuclear physics	semapv:ManualMappingCuration
+wos:UP	Physics, Particles & Fields	skos:exactMatch	oecd:31048466	Particles and fields physics	semapv:ManualMappingCuration
+wos:UM	Physiology	skos:broadMatch	oecd:31050373	Physiology (including cytology)	semapv:ManualMappingCuration
+wos:DE	Plant Sciences	skos:broadMatch	oecd:31048898	Plant sciences, botany	semapv:ManualMappingCuration
+wos:UU	Political Science	skos:exactMatch	oecd:31051035	Political science	semapv:ManualMappingCuration
+wos:UY	Polymer Science	skos:broadMatch	oecd:31048560	Physical chemistry, Polymer science, Electrochemistry (dry cells, batteries, fuel cells, corrosion metals, electrolysis)	semapv:ManualMappingCuration
+wos:ML	Primary Health Care	skos:broadMatch	oecd:31050510	Health sciences	semapv:ManualMappingCuration
+wos:VE	Psychiatry	skos:exactMatch	oecd:31050481	Psychiatry	semapv:ManualMappingCuration
+wos:VI	Psychology	skos:exactMatch	oecd:31050910	Psychology	semapv:ManualMappingCuration
+wos:EQ	Psychology, Clinical	skos:exactMatch	oecd:31050918	Clinical psychology	semapv:ManualMappingCuration
+wos:NQ	Psychology, Applied	skos:exactMatch	oecd:31050927	Applied psychology	semapv:ManualMappingCuration
+wos:BV	Psychology, Biological	skos:broadMatch	oecd:31050910	Psychology	semapv:ManualMappingCuration
+wos:MY	Psychology, Developmental	skos:exactMatch	oecd:31050932	Developmental psychology	semapv:ManualMappingCuration
+wos:HI	Psychology, Educational	skos:exactMatch	oecd:31050934	Educational psychology	semapv:ManualMappingCuration
+wos:VX	Psychology, Experimental	skos:exactMatch	oecd:31050935	Experimental psychology	semapv:ManualMappingCuration
+wos:VS	Psychology, Mathematical	skos:broadMatch	oecd:31050910	Psychology	semapv:ManualMappingCuration
+wos:VJ	Psychology, Multidisciplinary	skos:broadMatch	oecd:31050910	Psychology	semapv:ManualMappingCuration
+wos:VP	Psychology, Psychoanalysis	skos:broadMatch	oecd:31050510	Health sciences	semapv:ManualMappingCuration
+wos:WQ	Psychology, Social	skos:exactMatch	oecd:31050917	Social psychology	semapv:ManualMappingCuration
+wos:VM	Public Administration	skos:exactMatch	oecd:31050954	Public administration	semapv:ManualMappingCuration
+wos:NE	Public, Environmental & Occupational Health	skos:broadMatch	oecd:31050540	Public and environmental health	semapv:ManualMappingCuration
+wos:VY	Radiology, Nuclear Medicine & Medical Imaging	skos:exactMatch	oecd:31050426	Radiology, nuclear medicine and medical imaging	semapv:ManualMappingCuration
+wos:WC	Rehabilitation	skos:exactMatch	oecd:31050685	Rehabilitation	semapv:ManualMappingCuration
+wos:YI	Religion	skos:broadMatch	oecd:31051188	Religious studies	semapv:ManualMappingCuration
+wos:SR	Remote Sensing	skos:exactMatch	oecd:31049399	Remote sensing	semapv:ManualMappingCuration
+wos:WF	Reproductive Biology	skos:exactMatch	oecd:31048884	Reproductive biology	semapv:ManualMappingCuration
+wos:WE	Respiratory System	skos:broadMatch	oecd:31050411	Respiratory systems	semapv:ManualMappingCuration
+wos:WH	Rheumatology	skos:exactMatch	oecd:31050446	Rheumatology	semapv:ManualMappingCuration
+wos:RB	Robotics	skos:broadMatch	oecd:31049124	Robotics and automatic control	semapv:ManualMappingCuration
+wos:WM	Social Issues	skos:exactMatch	oecd:31051021	Social issues	semapv:ManualMappingCuration
+wos:WU	Social Sciences, Interdisciplinary	skos:exactMatch	oecd:31051108	Social sciences, interdisciplinary	semapv:ManualMappingCuration
+wos:WV	Social Sciences, Biomedical	skos:broadMatch	oecd:31050510	Health sciences	semapv:ManualMappingCuration
+wos:WU	Social Sciences, Interdisciplinary	skos:broadMatch	oecd:31051107	Other social sciences	semapv:ManualMappingCuration
+wos:PS	Social Sciences, Mathematical Methods	skos:broadMatch	oecd:31051000	Sociology	semapv:ManualMappingCuration
+wos:WY	Social Work	skos:broadMatch	oecd:31051023	Family studies, Social work	semapv:ManualMappingCuration
+wos:XA	Sociology	skos:exactMatch	oecd:31051000	Sociology	semapv:ManualMappingCuration
+wos:XE	Soil Science	skos:exactMatch	oecd:31048656	Soil science	semapv:ManualMappingCuration
+wos:XQ	Spectroscopy	skos:exactMatch	oecd:31048592	Spectroscopy	semapv:ManualMappingCuration
+wos:XW	Sport Sciences	skos:broadMatch	oecd:31050680	Sport and fitness sciences	semapv:ManualMappingCuration
+wos:XY	Statistics & Probability	skos:broadMatch	oecd:31048390	Statistics and probability (This includes research on statistical methodologies, but excludes research on applied statistics which should be classified under the relevant field of application (e.g. Economics, Sociology, etc.)	semapv:ManualMappingCuration
+wos:GM	Substance Abuse	skos:exactMatch	oecd:31050697	Substance abuse	semapv:ManualMappingCuration
+wos:YA	Surgery	skos:exactMatch	oecd:31050418	Surgery	semapv:ManualMappingCuration
+wos:YE	Telecommunications	skos:broadMatch	oecd:31049140	Communication engineering and systems telecommunications	semapv:ManualMappingCuration
+wos:YG	Theater	skos:broadMatch	oecd:31051201	Performing arts studies (Musicology, Theater science, Dramaturgy)	semapv:ManualMappingCuration
+wos:DT	Thermodynamics	skos:exactMatch	oecd:31048461	Thermodynamics	semapv:ManualMappingCuration
+wos:YO	Toxicology	skos:exactMatch	oecd:31048814	Toxicology	semapv:ManualMappingCuration
+wos:YP	Transplantation	skos:exactMatch	oecd:31050437	Transplantation	semapv:ManualMappingCuration
+wos:YQ	Transportation	skos:broadMatch	oecd:31051090	Mobility, tourism, transportation and logistics	semapv:ManualMappingCuration
+wos:YR	Transportation Science & Technology	skos:broadMatch	oecd:31051090	Mobility, tourism, transportation and logistics	semapv:ManualMappingCuration
+wos:YU	Tropical Medicine	skos:exactMatch	oecd:31050607	Tropical medicine	semapv:ManualMappingCuration
+wos:YY	Urban Studies	skos:broadMatch	oecd:31051085	Urban studies (Planning and development)	semapv:ManualMappingCuration
+wos:ZA	Urology & Nephrology	skos:broadMatch	oecd:31050380	Clinical medicine	semapv:ManualMappingCuration
+wos:ZA	Urology & Nephrology	skos:exactMatch	oecd:31050467	Urology and nephrology	semapv:ManualMappingCuration
+wos:ZC	Veterinary Sciences	skos:broadMatch	oecd:31050851	Veterinary science	semapv:ManualMappingCuration
+wos:ZE	Virology	skos:exactMatch	oecd:31048816	Virology	semapv:ManualMappingCuration
+wos:ZR	Water Resources	skos:exactMatch	oecd:31048690	Water resources	semapv:ManualMappingCuration
+wos:ZK	Women's Studies	skos:broadMatch	oecd:31051019	Women and gender studies	semapv:ManualMappingCuration
+wos:ZM	Zoology	skos:exactMatch	oecd:31048933	Zoology	semapv:ManualMappingCuration

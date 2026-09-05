@@ -1,0 +1,2034 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/tamar/taxonomies/asjc/1000> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:multidisciplinary> ;
+    skos:notation "1000" ;
+    skos:prefLabel "Multidisciplinary"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1101> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1100> ;
+    skos:notation "1101" ;
+    skos:prefLabel "Agricultural and Biological Sciences (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1102> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1100> ;
+    skos:notation "1102" ;
+    skos:prefLabel "Agronomy and Crop Science"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1103> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1100> ;
+    skos:notation "1103" ;
+    skos:prefLabel "Animal Science and Zoology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1104> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1100> ;
+    skos:notation "1104" ;
+    skos:prefLabel "Aquatic Science"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1105> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1100> ;
+    skos:notation "1105" ;
+    skos:prefLabel "Ecology, Evolution, Behavior and Systematics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1106> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1100> ;
+    skos:notation "1106" ;
+    skos:prefLabel "Food Science"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1107> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1100> ;
+    skos:notation "1107" ;
+    skos:prefLabel "Forestry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1108> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1100> ;
+    skos:notation "1108" ;
+    skos:prefLabel "Horticulture"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1109> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1100> ;
+    skos:notation "1109" ;
+    skos:prefLabel "Insect Science"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1110> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1100> ;
+    skos:notation "1110" ;
+    skos:prefLabel "Plant Science"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1111> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1100> ;
+    skos:notation "1111" ;
+    skos:prefLabel "Soil Science"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1201> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1200> ;
+    skos:notation "1201" ;
+    skos:prefLabel "Arts and Humanities (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1202> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1200> ;
+    skos:notation "1202" ;
+    skos:prefLabel "History"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1203> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1200> ;
+    skos:notation "1203" ;
+    skos:prefLabel "Language and Linguistics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1204> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1200> ;
+    skos:notation "1204" ;
+    skos:prefLabel "Archeology (arts and humanities)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1205> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1200> ;
+    skos:notation "1205" ;
+    skos:prefLabel "Classics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1206> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1200> ;
+    skos:notation "1206" ;
+    skos:prefLabel "Conservation"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1207> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1200> ;
+    skos:notation "1207" ;
+    skos:prefLabel "History and Philosophy of Science"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1208> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1200> ;
+    skos:notation "1208" ;
+    skos:prefLabel "Literature and Literary Theory"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1209> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1200> ;
+    skos:notation "1209" ;
+    skos:prefLabel "Museology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1210> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1200> ;
+    skos:notation "1210" ;
+    skos:prefLabel "Music"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1211> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1200> ;
+    skos:notation "1211" ;
+    skos:prefLabel "Philosophy"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1212> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1200> ;
+    skos:notation "1212" ;
+    skos:prefLabel "Religious Studies"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1213> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1200> ;
+    skos:notation "1213" ;
+    skos:prefLabel "Visual Arts and Performing Arts"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1301> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1300> ;
+    skos:notation "1301" ;
+    skos:prefLabel "Biochemistry, Genetics and Molecular Biology (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1302> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1300> ;
+    skos:notation "1302" ;
+    skos:prefLabel "Aging"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1303> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1300> ;
+    skos:notation "1303" ;
+    skos:prefLabel "Biochemistry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1304> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1300> ;
+    skos:notation "1304" ;
+    skos:prefLabel "Biophysics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1305> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1300> ;
+    skos:notation "1305" ;
+    skos:prefLabel "Biotechnology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1306> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1300> ;
+    skos:notation "1306" ;
+    skos:prefLabel "Cancer Research"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1307> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1300> ;
+    skos:notation "1307" ;
+    skos:prefLabel "Cell Biology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1308> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1300> ;
+    skos:notation "1308" ;
+    skos:prefLabel "Clinical Biochemistry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1309> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1300> ;
+    skos:notation "1309" ;
+    skos:prefLabel "Developmental Biology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1310> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1300> ;
+    skos:notation "1310" ;
+    skos:prefLabel "Endocrinology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1311> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1300> ;
+    skos:notation "1311" ;
+    skos:prefLabel "Genetics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1312> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1300> ;
+    skos:notation "1312" ;
+    skos:prefLabel "Molecular Biology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1313> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1300> ;
+    skos:notation "1313" ;
+    skos:prefLabel "Molecular Medicine"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1314> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1300> ;
+    skos:notation "1314" ;
+    skos:prefLabel "Physiology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1315> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1300> ;
+    skos:notation "1315" ;
+    skos:prefLabel "Structural Biology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1401> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1400> ;
+    skos:notation "1401" ;
+    skos:prefLabel "Business, Management and Accounting (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1402> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1400> ;
+    skos:notation "1402" ;
+    skos:prefLabel "Accounting"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1403> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1400> ;
+    skos:notation "1403" ;
+    skos:prefLabel "Business and International Management"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1404> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1400> ;
+    skos:notation "1404" ;
+    skos:prefLabel "Management Information Systems"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1405> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1400> ;
+    skos:notation "1405" ;
+    skos:prefLabel "Management of Technology and Innovation"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1406> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1400> ;
+    skos:notation "1406" ;
+    skos:prefLabel "Marketing"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1407> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1400> ;
+    skos:notation "1407" ;
+    skos:prefLabel "Organizational Behavior and Human Resource Management"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1408> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1400> ;
+    skos:notation "1408" ;
+    skos:prefLabel "Strategy and Management"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1409> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1400> ;
+    skos:notation "1409" ;
+    skos:prefLabel "Tourism, Leisure and Hospitality Management"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1410> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1400> ;
+    skos:notation "1410" ;
+    skos:prefLabel "Industrial Relations"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1501> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1500> ;
+    skos:notation "1501" ;
+    skos:prefLabel "Chemical Engineering (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1502> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1500> ;
+    skos:notation "1502" ;
+    skos:prefLabel "Bioengineering"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1503> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1500> ;
+    skos:notation "1503" ;
+    skos:prefLabel "Catalysis"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1504> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1500> ;
+    skos:notation "1504" ;
+    skos:prefLabel "Chemical Health and Safety"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1505> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1500> ;
+    skos:notation "1505" ;
+    skos:prefLabel "Colloid and Surface Chemistry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1506> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1500> ;
+    skos:notation "1506" ;
+    skos:prefLabel "Filtration and Separation"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1507> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1500> ;
+    skos:notation "1507" ;
+    skos:prefLabel "Fluid Flow and Transfer Processes"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1508> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1500> ;
+    skos:notation "1508" ;
+    skos:prefLabel "Process Chemistry and Technology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1601> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1600> ;
+    skos:notation "1601" ;
+    skos:prefLabel "Chemistry (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1602> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1600> ;
+    skos:notation "1602" ;
+    skos:prefLabel "Analytical Chemistry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1603> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1600> ;
+    skos:notation "1603" ;
+    skos:prefLabel "Electrochemistry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1604> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1600> ;
+    skos:notation "1604" ;
+    skos:prefLabel "Inorganic Chemistry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1605> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1600> ;
+    skos:notation "1605" ;
+    skos:prefLabel "Organic Chemistry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1606> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1600> ;
+    skos:notation "1606" ;
+    skos:prefLabel "Physical and Theoretical Chemistry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1607> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1600> ;
+    skos:notation "1607" ;
+    skos:prefLabel "Spectroscopy"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1701> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1700> ;
+    skos:notation "1701" ;
+    skos:prefLabel "Computer Science (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1702> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1700> ;
+    skos:notation "1702" ;
+    skos:prefLabel "Artificial Intelligence"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1703> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1700> ;
+    skos:notation "1703" ;
+    skos:prefLabel "Computational Theory and Mathematics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1704> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1700> ;
+    skos:notation "1704" ;
+    skos:prefLabel "Computer Graphics and Computer-Aided Design"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1705> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1700> ;
+    skos:notation "1705" ;
+    skos:prefLabel "Computer Networks and Communications"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1706> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1700> ;
+    skos:notation "1706" ;
+    skos:prefLabel "Computer Science Applications"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1707> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1700> ;
+    skos:notation "1707" ;
+    skos:prefLabel "Computer Vision and Pattern Recognition"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1708> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1700> ;
+    skos:notation "1708" ;
+    skos:prefLabel "Hardware and Architecture"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1709> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1700> ;
+    skos:notation "1709" ;
+    skos:prefLabel "Human-Computer Interaction"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1710> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1700> ;
+    skos:notation "1710" ;
+    skos:prefLabel "Information Systems"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1711> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1700> ;
+    skos:notation "1711" ;
+    skos:prefLabel "Signal Processing"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1712> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1700> ;
+    skos:notation "1712" ;
+    skos:prefLabel "Software"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1801> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1800> ;
+    skos:notation "1801" ;
+    skos:prefLabel "Decision Sciences (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1802> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1800> ;
+    skos:notation "1802" ;
+    skos:prefLabel "Information Systems and Management"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1803> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1800> ;
+    skos:notation "1803" ;
+    skos:prefLabel "Management Science and Operations Research"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1804> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1800> ;
+    skos:notation "1804" ;
+    skos:prefLabel "Statistics, Probability and Uncertainty"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1901> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1900> ;
+    skos:notation "1901" ;
+    skos:prefLabel "Earth and Planetary Sciences (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1902> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1900> ;
+    skos:notation "1902" ;
+    skos:prefLabel "Atmospheric Science"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1903> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1900> ;
+    skos:notation "1903" ;
+    skos:prefLabel "Computers in Earth Sciences"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1904> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1900> ;
+    skos:notation "1904" ;
+    skos:prefLabel "Earth-Surface Processes"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1905> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1900> ;
+    skos:notation "1905" ;
+    skos:prefLabel "Economic Geology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1906> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1900> ;
+    skos:notation "1906" ;
+    skos:prefLabel "Geochemistry and Petrology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1907> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1900> ;
+    skos:notation "1907" ;
+    skos:prefLabel "Geology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1908> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1900> ;
+    skos:notation "1908" ;
+    skos:prefLabel "Geophysics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1909> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1900> ;
+    skos:notation "1909" ;
+    skos:prefLabel "Geotechnical Engineering and Engineering Geology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1910> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1900> ;
+    skos:notation "1910" ;
+    skos:prefLabel "Oceanography"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1911> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1900> ;
+    skos:notation "1911" ;
+    skos:prefLabel "Paleontology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1912> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1900> ;
+    skos:notation "1912" ;
+    skos:prefLabel "Space and Planetary Science"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1913> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/1900> ;
+    skos:notation "1913" ;
+    skos:prefLabel "Stratigraphy"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2001> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2000> ;
+    skos:notation "2001" ;
+    skos:prefLabel "Economics, Econometrics and Finance (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2002> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2000> ;
+    skos:notation "2002" ;
+    skos:prefLabel "Economics and Econometrics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2003> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2000> ;
+    skos:notation "2003" ;
+    skos:prefLabel "Finance"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2101> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2100> ;
+    skos:notation "2101" ;
+    skos:prefLabel "Energy (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2102> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2100> ;
+    skos:notation "2102" ;
+    skos:prefLabel "Energy Engineering and Power Technology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2103> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2100> ;
+    skos:notation "2103" ;
+    skos:prefLabel "Fuel Technology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2104> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2100> ;
+    skos:notation "2104" ;
+    skos:prefLabel "Nuclear Energy and Engineering"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2105> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2100> ;
+    skos:notation "2105" ;
+    skos:prefLabel "Renewable Energy, Sustainability and the Environment"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2201> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2201" ;
+    skos:prefLabel "Engineering (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2202> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2202" ;
+    skos:prefLabel "Aerospace Engineering"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2203> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2203" ;
+    skos:prefLabel "Automotive Engineering"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2204> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2204" ;
+    skos:prefLabel "Biomedical Engineering"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2205> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2205" ;
+    skos:prefLabel "Civil and Structural Engineering"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2206> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2206" ;
+    skos:prefLabel "Computational Mechanics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2207> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2207" ;
+    skos:prefLabel "Control and Systems Engineering"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2208> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2208" ;
+    skos:prefLabel "Electrical and Electronic Engineering"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2209> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2209" ;
+    skos:prefLabel "Industrial and Manufacturing Engineering"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2210> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2210" ;
+    skos:prefLabel "Mechanical Engineering"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2211> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2211" ;
+    skos:prefLabel "Mechanics of Materials"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2212> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2212" ;
+    skos:prefLabel "Ocean Engineering"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2213> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2213" ;
+    skos:prefLabel "Safety, Risk, Reliability and Quality"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2214> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2214" ;
+    skos:prefLabel "Media Technology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2215> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2215" ;
+    skos:prefLabel "Building and Construction"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2216> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2200> ;
+    skos:notation "2216" ;
+    skos:prefLabel "Architecture"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2301> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2300> ;
+    skos:notation "2301" ;
+    skos:prefLabel "Environmental Science (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2302> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2300> ;
+    skos:notation "2302" ;
+    skos:prefLabel "Ecological Modeling"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2303> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2300> ;
+    skos:notation "2303" ;
+    skos:prefLabel "Ecology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2304> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2300> ;
+    skos:notation "2304" ;
+    skos:prefLabel "Environmental Chemistry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2305> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2300> ;
+    skos:notation "2305" ;
+    skos:prefLabel "Environmental Engineering"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2306> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2300> ;
+    skos:notation "2306" ;
+    skos:prefLabel "Global and Planetary Change"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2307> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2300> ;
+    skos:notation "2307" ;
+    skos:prefLabel "Health, Toxicology and Mutagenesis"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2308> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2300> ;
+    skos:notation "2308" ;
+    skos:prefLabel "Management, Monitoring, Policy and Law"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2309> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2300> ;
+    skos:notation "2309" ;
+    skos:prefLabel "Nature and Landscape Conservation"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2310> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2300> ;
+    skos:notation "2310" ;
+    skos:prefLabel "Pollution"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2311> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2300> ;
+    skos:notation "2311" ;
+    skos:prefLabel "Waste Management and Disposal"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2312> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2300> ;
+    skos:notation "2312" ;
+    skos:prefLabel "Water Science and Technology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2401> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2400> ;
+    skos:notation "2401" ;
+    skos:prefLabel "Immunology and Microbiology (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2402> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2400> ;
+    skos:notation "2402" ;
+    skos:prefLabel "Applied Microbiology and Biotechnology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2403> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2400> ;
+    skos:notation "2403" ;
+    skos:prefLabel "Immunology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2404> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2400> ;
+    skos:notation "2404" ;
+    skos:prefLabel "Microbiology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2405> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2400> ;
+    skos:notation "2405" ;
+    skos:prefLabel "Parasitology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2406> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2400> ;
+    skos:notation "2406" ;
+    skos:prefLabel "Virology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2501> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2500> ;
+    skos:notation "2501" ;
+    skos:prefLabel "Materials Science (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2502> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2500> ;
+    skos:notation "2502" ;
+    skos:prefLabel "Biomaterials"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2503> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2500> ;
+    skos:notation "2503" ;
+    skos:prefLabel "Ceramics and Composites"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2504> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2500> ;
+    skos:notation "2504" ;
+    skos:prefLabel "Electronic, Optical and Magnetic Materials"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2505> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2500> ;
+    skos:notation "2505" ;
+    skos:prefLabel "Materials Chemistry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2506> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2500> ;
+    skos:notation "2506" ;
+    skos:prefLabel "Metals and Alloys"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2507> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2500> ;
+    skos:notation "2507" ;
+    skos:prefLabel "Polymers and Plastics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2508> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2500> ;
+    skos:notation "2508" ;
+    skos:prefLabel "Surfaces, Coatings and Films"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2601> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2600> ;
+    skos:notation "2601" ;
+    skos:prefLabel "Mathematics (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2602> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2600> ;
+    skos:notation "2602" ;
+    skos:prefLabel "Algebra and Number Theory"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2603> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2600> ;
+    skos:notation "2603" ;
+    skos:prefLabel "Analysis"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2604> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2600> ;
+    skos:notation "2604" ;
+    skos:prefLabel "Applied Mathematics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2605> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2600> ;
+    skos:notation "2605" ;
+    skos:prefLabel "Computational Mathematics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2606> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2600> ;
+    skos:notation "2606" ;
+    skos:prefLabel "Control and Optimization"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2607> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2600> ;
+    skos:notation "2607" ;
+    skos:prefLabel "Discrete Mathematics and Combinatorics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2608> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2600> ;
+    skos:notation "2608" ;
+    skos:prefLabel "Geometry and Topology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2609> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2600> ;
+    skos:notation "2609" ;
+    skos:prefLabel "Logic"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2610> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2600> ;
+    skos:notation "2610" ;
+    skos:prefLabel "Mathematical Physics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2611> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2600> ;
+    skos:notation "2611" ;
+    skos:prefLabel "Modeling and Simulation"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2612> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2600> ;
+    skos:notation "2612" ;
+    skos:prefLabel "Numerical Analysis"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2613> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2600> ;
+    skos:notation "2613" ;
+    skos:prefLabel "Statistics and Probability"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2614> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2600> ;
+    skos:notation "2614" ;
+    skos:prefLabel "Theoretical Computer Science"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2701> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2701" ;
+    skos:prefLabel "Medicine (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2702> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2702" ;
+    skos:prefLabel "Anatomy"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2703> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2703" ;
+    skos:prefLabel "Anesthesiology and Pain Medicine"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2704> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2704" ;
+    skos:prefLabel "Biochemistry (medical)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2705> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2705" ;
+    skos:prefLabel "Cardiology and Cardiovascular Medicine"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2706> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2706" ;
+    skos:prefLabel "Critical Care and Intensive Care Medicine"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2707> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2707" ;
+    skos:prefLabel "Complementary and Alternative Medicine"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2708> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2708" ;
+    skos:prefLabel "Dermatology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2709> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2709" ;
+    skos:prefLabel "Drug Guides"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2710> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2710" ;
+    skos:prefLabel "Embryology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2711> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2711" ;
+    skos:prefLabel "Emergency Medicine"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2712> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2712" ;
+    skos:prefLabel "Endocrinology, Diabetes and Metabolism"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2713> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2713" ;
+    skos:prefLabel "Epidemiology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2714> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2714" ;
+    skos:prefLabel "Family Practice"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2715> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2715" ;
+    skos:prefLabel "Gastroenterology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2716> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2716" ;
+    skos:prefLabel "Genetics (clinical)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2717> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2717" ;
+    skos:prefLabel "Geriatrics and Gerontology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2718> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2718" ;
+    skos:prefLabel "Health Informatics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2719> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2719" ;
+    skos:prefLabel "Health Policy"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2720> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2720" ;
+    skos:prefLabel "Hematology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2721> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2721" ;
+    skos:prefLabel "Hepatology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2722> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2722" ;
+    skos:prefLabel "Histology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2723> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2723" ;
+    skos:prefLabel "Immunology and Allergy"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2724> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2724" ;
+    skos:prefLabel "Internal Medicine"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2725> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2725" ;
+    skos:prefLabel "Infectious Diseases"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2726> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2726" ;
+    skos:prefLabel "Microbiology (medical)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2727> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2727" ;
+    skos:prefLabel "Nephrology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2728> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2728" ;
+    skos:prefLabel "Neurology (clinical)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2729> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2729" ;
+    skos:prefLabel "Obstetrics and Gynecology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2730> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2730" ;
+    skos:prefLabel "Oncology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2731> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2731" ;
+    skos:prefLabel "Ophthalmology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2732> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2732" ;
+    skos:prefLabel "Orthopedics and Sports Medicine"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2733> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2733" ;
+    skos:prefLabel "Otorhinolaryngology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2734> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2734" ;
+    skos:prefLabel "Pathology and Forensic Medicine"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2735> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2735" ;
+    skos:prefLabel "Pediatrics, Perinatology and Child Health"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2736> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2736" ;
+    skos:prefLabel "Pharmacology (medical)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2737> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2737" ;
+    skos:prefLabel "Physiology (medical)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2738> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2738" ;
+    skos:prefLabel "Psychiatry and Mental Health"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2739> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2739" ;
+    skos:prefLabel "Public Health, Environmental and Occupational Health"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2740> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2740" ;
+    skos:prefLabel "Pulmonary and Respiratory Medicine"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2741> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2741" ;
+    skos:prefLabel "Radiology, Nuclear Medicine and Imaging"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2742> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2742" ;
+    skos:prefLabel "Rehabilitation"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2743> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2743" ;
+    skos:prefLabel "Reproductive Medicine"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2744> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2744" ;
+    skos:prefLabel "Reviews and References (medical)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2745> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2745" ;
+    skos:prefLabel "Rheumatology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2746> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2746" ;
+    skos:prefLabel "Surgery"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2747> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2747" ;
+    skos:prefLabel "Transplantation"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2748> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2700> ;
+    skos:notation "2748" ;
+    skos:prefLabel "Urology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2801> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2800> ;
+    skos:notation "2801" ;
+    skos:prefLabel "Neuroscience (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2802> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2800> ;
+    skos:notation "2802" ;
+    skos:prefLabel "Behavioral Neuroscience"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2803> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2800> ;
+    skos:notation "2803" ;
+    skos:prefLabel "Biological Psychiatry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2804> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2800> ;
+    skos:notation "2804" ;
+    skos:prefLabel "Cellular and Molecular Neuroscience"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2805> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2800> ;
+    skos:notation "2805" ;
+    skos:prefLabel "Cognitive Neuroscience"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2806> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2800> ;
+    skos:notation "2806" ;
+    skos:prefLabel "Developmental Neuroscience"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2807> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2800> ;
+    skos:notation "2807" ;
+    skos:prefLabel "Endocrine and Autonomic Systems"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2808> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2800> ;
+    skos:notation "2808" ;
+    skos:prefLabel "Neurology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2809> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2800> ;
+    skos:notation "2809" ;
+    skos:prefLabel "Sensory Systems"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2901> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2901" ;
+    skos:prefLabel "Nursing (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2902> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2902" ;
+    skos:prefLabel "Advanced and Specialized Nursing"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2903> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2903" ;
+    skos:prefLabel "Assessment and Diagnosis"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2904> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2904" ;
+    skos:prefLabel "Care Planning"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2905> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2905" ;
+    skos:prefLabel "Community and Home Care"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2906> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2906" ;
+    skos:prefLabel "Critical Care Nursing"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2907> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2907" ;
+    skos:prefLabel "Emergency Nursing"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2908> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2908" ;
+    skos:prefLabel "Fundamentals and Skills"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2909> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2909" ;
+    skos:prefLabel "Gerontology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2910> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2910" ;
+    skos:prefLabel "Issues, Ethics and Legal Aspects"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2911> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2911" ;
+    skos:prefLabel "Leadership and Management"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2912> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2912" ;
+    skos:prefLabel "LPN and LVN"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2913> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2913" ;
+    skos:prefLabel "Maternity and Midwifery"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2914> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2914" ;
+    skos:prefLabel "Medical and Surgical Nursing"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2915> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2915" ;
+    skos:prefLabel "Nurse Assisting"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2916> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2916" ;
+    skos:prefLabel "Nutrition and Dietetics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2917> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2917" ;
+    skos:prefLabel "Oncology (nursing)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2918> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2918" ;
+    skos:prefLabel "Pathophysiology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2919> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2919" ;
+    skos:prefLabel "Pediatrics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2920> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2920" ;
+    skos:prefLabel "Pharmacology (nursing)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2921> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2921" ;
+    skos:prefLabel "Psychiatric Mental Health"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2922> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2922" ;
+    skos:prefLabel "Research and Theory"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2923> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/2900> ;
+    skos:notation "2923" ;
+    skos:prefLabel "Review and Exam Preparation"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3001> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3000> ;
+    skos:notation "3001" ;
+    skos:prefLabel "Pharmacology, Toxicology and Pharmaceutics (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3002> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3000> ;
+    skos:notation "3002" ;
+    skos:prefLabel "Drug Discovery"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3003> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3000> ;
+    skos:notation "3003" ;
+    skos:prefLabel "Pharmaceutical Science"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3004> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3000> ;
+    skos:notation "3004" ;
+    skos:prefLabel "Pharmacology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3005> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3000> ;
+    skos:notation "3005" ;
+    skos:prefLabel "Toxicology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3101> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3100> ;
+    skos:notation "3101" ;
+    skos:prefLabel "Physics and Astronomy (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3102> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3100> ;
+    skos:notation "3102" ;
+    skos:prefLabel "Acoustics and Ultrasonics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3103> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3100> ;
+    skos:notation "3103" ;
+    skos:prefLabel "Astronomy and Astrophysics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3104> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3100> ;
+    skos:notation "3104" ;
+    skos:prefLabel "Condensed Matter Physics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3105> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3100> ;
+    skos:notation "3105" ;
+    skos:prefLabel "Instrumentation"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3106> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3100> ;
+    skos:notation "3106" ;
+    skos:prefLabel "Nuclear and High Energy Physics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3107> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3100> ;
+    skos:notation "3107" ;
+    skos:prefLabel "Atomic and Molecular Physics, and Optics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3108> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3100> ;
+    skos:notation "3108" ;
+    skos:prefLabel "Radiation"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3109> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3100> ;
+    skos:notation "3109" ;
+    skos:prefLabel "Statistical and Nonlinear Physics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3110> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3100> ;
+    skos:notation "3110" ;
+    skos:prefLabel "Surfaces and Interfaces"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3201> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3200> ;
+    skos:notation "3201" ;
+    skos:prefLabel "Psychology (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3202> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3200> ;
+    skos:notation "3202" ;
+    skos:prefLabel "Applied Psychology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3203> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3200> ;
+    skos:notation "3203" ;
+    skos:prefLabel "Clinical Psychology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3204> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3200> ;
+    skos:notation "3204" ;
+    skos:prefLabel "Developmental and Educational Psychology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3205> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3200> ;
+    skos:notation "3205" ;
+    skos:prefLabel "Experimental and Cognitive Psychology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3206> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3200> ;
+    skos:notation "3206" ;
+    skos:prefLabel "Neuropsychology and Physiological Psychology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3207> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3200> ;
+    skos:notation "3207" ;
+    skos:prefLabel "Social Psychology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3301> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3301" ;
+    skos:prefLabel "Social Sciences (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3302> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3302" ;
+    skos:prefLabel "Archeology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3303> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3303" ;
+    skos:prefLabel "Development"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3304> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3304" ;
+    skos:prefLabel "Education"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3305> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3305" ;
+    skos:prefLabel "Geography, Planning and Development"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3306> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3306" ;
+    skos:prefLabel "Health (social science)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3307> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3307" ;
+    skos:prefLabel "Human Factors and Ergonomics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3308> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3308" ;
+    skos:prefLabel "Law"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3309> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3309" ;
+    skos:prefLabel "Library and Information Sciences"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3310> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3310" ;
+    skos:prefLabel "Linguistics and Language"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3311> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3311" ;
+    skos:prefLabel "Safety Research"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3312> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3312" ;
+    skos:prefLabel "Sociology and Political Science"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3313> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3313" ;
+    skos:prefLabel "Transportation"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3314> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3314" ;
+    skos:prefLabel "Anthropology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3315> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3315" ;
+    skos:prefLabel "Communication"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3316> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3316" ;
+    skos:prefLabel "Cultural Studies"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3317> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3317" ;
+    skos:prefLabel "Demography"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3318> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3318" ;
+    skos:prefLabel "Gender Studies"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3319> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3319" ;
+    skos:prefLabel "Life-span and Life-course Studies"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3320> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3320" ;
+    skos:prefLabel "Political Science and International Relations"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3321> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3321" ;
+    skos:prefLabel "Public Administration"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3322> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:notation "3322" ;
+    skos:prefLabel "Urban Studies"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3401> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3400> ;
+    skos:notation "3401" ;
+    skos:prefLabel "Veterinary (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3402> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3400> ;
+    skos:notation "3402" ;
+    skos:prefLabel "Equine"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3403> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3400> ;
+    skos:notation "3403" ;
+    skos:prefLabel "Food Animals"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3404> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3400> ;
+    skos:notation "3404" ;
+    skos:prefLabel "Small Animals"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3501> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3500> ;
+    skos:notation "3501" ;
+    skos:prefLabel "Dentistry (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3502> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3500> ;
+    skos:notation "3502" ;
+    skos:prefLabel "Dental Assisting"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3503> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3500> ;
+    skos:notation "3503" ;
+    skos:prefLabel "Dental Hygiene"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3504> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3500> ;
+    skos:notation "3504" ;
+    skos:prefLabel "Oral Surgery"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3505> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3500> ;
+    skos:notation "3505" ;
+    skos:prefLabel "Orthodontics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3506> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3500> ;
+    skos:notation "3506" ;
+    skos:prefLabel "Periodontics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3601> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3601" ;
+    skos:prefLabel "Health Professions (miscellaneous)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3602> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3602" ;
+    skos:prefLabel "Chiropractics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3603> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3603" ;
+    skos:prefLabel "Complementary and Manual Therapy"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3604> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3604" ;
+    skos:prefLabel "Emergency Medical Services"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3605> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3605" ;
+    skos:prefLabel "Health Information Management"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3606> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3606" ;
+    skos:prefLabel "Medical Assisting and Transcription"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3607> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3607" ;
+    skos:prefLabel "Medical Laboratory Technology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3608> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3608" ;
+    skos:prefLabel "Medical Terminology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3609> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3609" ;
+    skos:prefLabel "Occupational Therapy"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3610> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3610" ;
+    skos:prefLabel "Optometry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3611> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3611" ;
+    skos:prefLabel "Pharmacy"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3612> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3612" ;
+    skos:prefLabel "Physical Therapy, Sports Therapy and Rehabilitation"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3613> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3613" ;
+    skos:prefLabel "Podiatry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3614> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3614" ;
+    skos:prefLabel "Radiological and Ultrasound Technology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3615> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3615" ;
+    skos:prefLabel "Respiratory Care"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3616> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:notation "3616" ;
+    skos:prefLabel "Speech and Hearing"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/sa:multidisciplinary> a skos:Concept ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/1000> ;
+    skos:prefLabel "Multidisciplinary"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/asjc> .
+
+<https://w3id.org/tamar/taxonomies/asjc/2000> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:social-sciences-humanities> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/2001>,
+        <https://w3id.org/tamar/taxonomies/asjc/2002>,
+        <https://w3id.org/tamar/taxonomies/asjc/2003> ;
+    skos:notation "2000" ;
+    skos:prefLabel "General Economics, Econometrics and Finance"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc> a skos:ConceptScheme ;
+    skos:hasTopConcept <https://w3id.org/tamar/taxonomies/asjc/sa:health-sciences>,
+        <https://w3id.org/tamar/taxonomies/asjc/sa:life-sciences>,
+        <https://w3id.org/tamar/taxonomies/asjc/sa:multidisciplinary>,
+        <https://w3id.org/tamar/taxonomies/asjc/sa:physical-sciences>,
+        <https://w3id.org/tamar/taxonomies/asjc/sa:social-sciences-humanities> ;
+    skos:prefLabel "All Science Journal Classification (ASJC)"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1800> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:social-sciences-humanities> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/1801>,
+        <https://w3id.org/tamar/taxonomies/asjc/1802>,
+        <https://w3id.org/tamar/taxonomies/asjc/1803>,
+        <https://w3id.org/tamar/taxonomies/asjc/1804> ;
+    skos:notation "1800" ;
+    skos:prefLabel "General Decision Sciences"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3400> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:health-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/3401>,
+        <https://w3id.org/tamar/taxonomies/asjc/3402>,
+        <https://w3id.org/tamar/taxonomies/asjc/3403>,
+        <https://w3id.org/tamar/taxonomies/asjc/3404> ;
+    skos:notation "3400" ;
+    skos:prefLabel "General Veterinary"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2100> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:physical-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/2101>,
+        <https://w3id.org/tamar/taxonomies/asjc/2102>,
+        <https://w3id.org/tamar/taxonomies/asjc/2103>,
+        <https://w3id.org/tamar/taxonomies/asjc/2104>,
+        <https://w3id.org/tamar/taxonomies/asjc/2105> ;
+    skos:notation "2100" ;
+    skos:prefLabel "General Energy"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3000> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:life-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/3001>,
+        <https://w3id.org/tamar/taxonomies/asjc/3002>,
+        <https://w3id.org/tamar/taxonomies/asjc/3003>,
+        <https://w3id.org/tamar/taxonomies/asjc/3004>,
+        <https://w3id.org/tamar/taxonomies/asjc/3005> ;
+    skos:notation "3000" ;
+    skos:prefLabel "General Pharmacology, Toxicology and Pharmaceutics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/sa:health-sciences> a skos:Concept ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/2700>,
+        <https://w3id.org/tamar/taxonomies/asjc/2900>,
+        <https://w3id.org/tamar/taxonomies/asjc/3400>,
+        <https://w3id.org/tamar/taxonomies/asjc/3500>,
+        <https://w3id.org/tamar/taxonomies/asjc/3600> ;
+    skos:prefLabel "Health Sciences"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/asjc> .
+
+<https://w3id.org/tamar/taxonomies/asjc/sa:life-sciences> a skos:Concept ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/1100>,
+        <https://w3id.org/tamar/taxonomies/asjc/1300>,
+        <https://w3id.org/tamar/taxonomies/asjc/2400>,
+        <https://w3id.org/tamar/taxonomies/asjc/2800>,
+        <https://w3id.org/tamar/taxonomies/asjc/3000> ;
+    skos:prefLabel "Life Sciences"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/asjc> .
+
+<https://w3id.org/tamar/taxonomies/asjc/2400> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:life-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/2401>,
+        <https://w3id.org/tamar/taxonomies/asjc/2402>,
+        <https://w3id.org/tamar/taxonomies/asjc/2403>,
+        <https://w3id.org/tamar/taxonomies/asjc/2404>,
+        <https://w3id.org/tamar/taxonomies/asjc/2405>,
+        <https://w3id.org/tamar/taxonomies/asjc/2406> ;
+    skos:notation "2400" ;
+    skos:prefLabel "General Immunology and Microbiology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3500> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:health-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/3501>,
+        <https://w3id.org/tamar/taxonomies/asjc/3502>,
+        <https://w3id.org/tamar/taxonomies/asjc/3503>,
+        <https://w3id.org/tamar/taxonomies/asjc/3504>,
+        <https://w3id.org/tamar/taxonomies/asjc/3505>,
+        <https://w3id.org/tamar/taxonomies/asjc/3506> ;
+    skos:notation "3500" ;
+    skos:prefLabel "General Dentistry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/sa:social-sciences-humanities> a skos:Concept ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/1200>,
+        <https://w3id.org/tamar/taxonomies/asjc/1400>,
+        <https://w3id.org/tamar/taxonomies/asjc/1800>,
+        <https://w3id.org/tamar/taxonomies/asjc/2000>,
+        <https://w3id.org/tamar/taxonomies/asjc/3200>,
+        <https://w3id.org/tamar/taxonomies/asjc/3300> ;
+    skos:prefLabel "Social Sciences & Humanities"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/asjc> .
+
+<https://w3id.org/tamar/taxonomies/asjc/1600> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:physical-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/1601>,
+        <https://w3id.org/tamar/taxonomies/asjc/1602>,
+        <https://w3id.org/tamar/taxonomies/asjc/1603>,
+        <https://w3id.org/tamar/taxonomies/asjc/1604>,
+        <https://w3id.org/tamar/taxonomies/asjc/1605>,
+        <https://w3id.org/tamar/taxonomies/asjc/1606>,
+        <https://w3id.org/tamar/taxonomies/asjc/1607> ;
+    skos:notation "1600" ;
+    skos:prefLabel "General Chemistry"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3200> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:social-sciences-humanities> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/3201>,
+        <https://w3id.org/tamar/taxonomies/asjc/3202>,
+        <https://w3id.org/tamar/taxonomies/asjc/3203>,
+        <https://w3id.org/tamar/taxonomies/asjc/3204>,
+        <https://w3id.org/tamar/taxonomies/asjc/3205>,
+        <https://w3id.org/tamar/taxonomies/asjc/3206>,
+        <https://w3id.org/tamar/taxonomies/asjc/3207> ;
+    skos:notation "3200" ;
+    skos:prefLabel "General Psychology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1500> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:physical-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/1501>,
+        <https://w3id.org/tamar/taxonomies/asjc/1502>,
+        <https://w3id.org/tamar/taxonomies/asjc/1503>,
+        <https://w3id.org/tamar/taxonomies/asjc/1504>,
+        <https://w3id.org/tamar/taxonomies/asjc/1505>,
+        <https://w3id.org/tamar/taxonomies/asjc/1506>,
+        <https://w3id.org/tamar/taxonomies/asjc/1507>,
+        <https://w3id.org/tamar/taxonomies/asjc/1508> ;
+    skos:notation "1500" ;
+    skos:prefLabel "General Chemical Engineering"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2500> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:physical-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/2501>,
+        <https://w3id.org/tamar/taxonomies/asjc/2502>,
+        <https://w3id.org/tamar/taxonomies/asjc/2503>,
+        <https://w3id.org/tamar/taxonomies/asjc/2504>,
+        <https://w3id.org/tamar/taxonomies/asjc/2505>,
+        <https://w3id.org/tamar/taxonomies/asjc/2506>,
+        <https://w3id.org/tamar/taxonomies/asjc/2507>,
+        <https://w3id.org/tamar/taxonomies/asjc/2508> ;
+    skos:notation "2500" ;
+    skos:prefLabel "General Materials Science"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2800> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:life-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/2801>,
+        <https://w3id.org/tamar/taxonomies/asjc/2802>,
+        <https://w3id.org/tamar/taxonomies/asjc/2803>,
+        <https://w3id.org/tamar/taxonomies/asjc/2804>,
+        <https://w3id.org/tamar/taxonomies/asjc/2805>,
+        <https://w3id.org/tamar/taxonomies/asjc/2806>,
+        <https://w3id.org/tamar/taxonomies/asjc/2807>,
+        <https://w3id.org/tamar/taxonomies/asjc/2808>,
+        <https://w3id.org/tamar/taxonomies/asjc/2809> ;
+    skos:notation "2800" ;
+    skos:prefLabel "General Neuroscience"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1400> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:social-sciences-humanities> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/1401>,
+        <https://w3id.org/tamar/taxonomies/asjc/1402>,
+        <https://w3id.org/tamar/taxonomies/asjc/1403>,
+        <https://w3id.org/tamar/taxonomies/asjc/1404>,
+        <https://w3id.org/tamar/taxonomies/asjc/1405>,
+        <https://w3id.org/tamar/taxonomies/asjc/1406>,
+        <https://w3id.org/tamar/taxonomies/asjc/1407>,
+        <https://w3id.org/tamar/taxonomies/asjc/1408>,
+        <https://w3id.org/tamar/taxonomies/asjc/1409>,
+        <https://w3id.org/tamar/taxonomies/asjc/1410> ;
+    skos:notation "1400" ;
+    skos:prefLabel "General Business, Management and Accounting"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3100> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:physical-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/3101>,
+        <https://w3id.org/tamar/taxonomies/asjc/3102>,
+        <https://w3id.org/tamar/taxonomies/asjc/3103>,
+        <https://w3id.org/tamar/taxonomies/asjc/3104>,
+        <https://w3id.org/tamar/taxonomies/asjc/3105>,
+        <https://w3id.org/tamar/taxonomies/asjc/3106>,
+        <https://w3id.org/tamar/taxonomies/asjc/3107>,
+        <https://w3id.org/tamar/taxonomies/asjc/3108>,
+        <https://w3id.org/tamar/taxonomies/asjc/3109>,
+        <https://w3id.org/tamar/taxonomies/asjc/3110> ;
+    skos:notation "3100" ;
+    skos:prefLabel "General Physics and Astronomy"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/sa:physical-sciences> a skos:Concept ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/1500>,
+        <https://w3id.org/tamar/taxonomies/asjc/1600>,
+        <https://w3id.org/tamar/taxonomies/asjc/1700>,
+        <https://w3id.org/tamar/taxonomies/asjc/1900>,
+        <https://w3id.org/tamar/taxonomies/asjc/2100>,
+        <https://w3id.org/tamar/taxonomies/asjc/2200>,
+        <https://w3id.org/tamar/taxonomies/asjc/2300>,
+        <https://w3id.org/tamar/taxonomies/asjc/2500>,
+        <https://w3id.org/tamar/taxonomies/asjc/2600>,
+        <https://w3id.org/tamar/taxonomies/asjc/3100> ;
+    skos:prefLabel "Physical Sciences"@en ;
+    skos:topConceptOf <https://w3id.org/tamar/taxonomies/asjc> .
+
+<https://w3id.org/tamar/taxonomies/asjc/1100> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:life-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/1101>,
+        <https://w3id.org/tamar/taxonomies/asjc/1102>,
+        <https://w3id.org/tamar/taxonomies/asjc/1103>,
+        <https://w3id.org/tamar/taxonomies/asjc/1104>,
+        <https://w3id.org/tamar/taxonomies/asjc/1105>,
+        <https://w3id.org/tamar/taxonomies/asjc/1106>,
+        <https://w3id.org/tamar/taxonomies/asjc/1107>,
+        <https://w3id.org/tamar/taxonomies/asjc/1108>,
+        <https://w3id.org/tamar/taxonomies/asjc/1109>,
+        <https://w3id.org/tamar/taxonomies/asjc/1110>,
+        <https://w3id.org/tamar/taxonomies/asjc/1111> ;
+    skos:notation "1100" ;
+    skos:prefLabel "General Agricultural and Biological Sciences"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1700> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:physical-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/1701>,
+        <https://w3id.org/tamar/taxonomies/asjc/1702>,
+        <https://w3id.org/tamar/taxonomies/asjc/1703>,
+        <https://w3id.org/tamar/taxonomies/asjc/1704>,
+        <https://w3id.org/tamar/taxonomies/asjc/1705>,
+        <https://w3id.org/tamar/taxonomies/asjc/1706>,
+        <https://w3id.org/tamar/taxonomies/asjc/1707>,
+        <https://w3id.org/tamar/taxonomies/asjc/1708>,
+        <https://w3id.org/tamar/taxonomies/asjc/1709>,
+        <https://w3id.org/tamar/taxonomies/asjc/1710>,
+        <https://w3id.org/tamar/taxonomies/asjc/1711>,
+        <https://w3id.org/tamar/taxonomies/asjc/1712> ;
+    skos:notation "1700" ;
+    skos:prefLabel "General Computer Science"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2300> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:physical-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/2301>,
+        <https://w3id.org/tamar/taxonomies/asjc/2302>,
+        <https://w3id.org/tamar/taxonomies/asjc/2303>,
+        <https://w3id.org/tamar/taxonomies/asjc/2304>,
+        <https://w3id.org/tamar/taxonomies/asjc/2305>,
+        <https://w3id.org/tamar/taxonomies/asjc/2306>,
+        <https://w3id.org/tamar/taxonomies/asjc/2307>,
+        <https://w3id.org/tamar/taxonomies/asjc/2308>,
+        <https://w3id.org/tamar/taxonomies/asjc/2309>,
+        <https://w3id.org/tamar/taxonomies/asjc/2310>,
+        <https://w3id.org/tamar/taxonomies/asjc/2311>,
+        <https://w3id.org/tamar/taxonomies/asjc/2312> ;
+    skos:notation "2300" ;
+    skos:prefLabel "General Environmental Science"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1200> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:social-sciences-humanities> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/1201>,
+        <https://w3id.org/tamar/taxonomies/asjc/1202>,
+        <https://w3id.org/tamar/taxonomies/asjc/1203>,
+        <https://w3id.org/tamar/taxonomies/asjc/1204>,
+        <https://w3id.org/tamar/taxonomies/asjc/1205>,
+        <https://w3id.org/tamar/taxonomies/asjc/1206>,
+        <https://w3id.org/tamar/taxonomies/asjc/1207>,
+        <https://w3id.org/tamar/taxonomies/asjc/1208>,
+        <https://w3id.org/tamar/taxonomies/asjc/1209>,
+        <https://w3id.org/tamar/taxonomies/asjc/1210>,
+        <https://w3id.org/tamar/taxonomies/asjc/1211>,
+        <https://w3id.org/tamar/taxonomies/asjc/1212>,
+        <https://w3id.org/tamar/taxonomies/asjc/1213> ;
+    skos:notation "1200" ;
+    skos:prefLabel "General Arts and Humanities"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1900> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:physical-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/1901>,
+        <https://w3id.org/tamar/taxonomies/asjc/1902>,
+        <https://w3id.org/tamar/taxonomies/asjc/1903>,
+        <https://w3id.org/tamar/taxonomies/asjc/1904>,
+        <https://w3id.org/tamar/taxonomies/asjc/1905>,
+        <https://w3id.org/tamar/taxonomies/asjc/1906>,
+        <https://w3id.org/tamar/taxonomies/asjc/1907>,
+        <https://w3id.org/tamar/taxonomies/asjc/1908>,
+        <https://w3id.org/tamar/taxonomies/asjc/1909>,
+        <https://w3id.org/tamar/taxonomies/asjc/1910>,
+        <https://w3id.org/tamar/taxonomies/asjc/1911>,
+        <https://w3id.org/tamar/taxonomies/asjc/1912>,
+        <https://w3id.org/tamar/taxonomies/asjc/1913> ;
+    skos:notation "1900" ;
+    skos:prefLabel "General Earth and Planetary Sciences"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2600> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:physical-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/2601>,
+        <https://w3id.org/tamar/taxonomies/asjc/2602>,
+        <https://w3id.org/tamar/taxonomies/asjc/2603>,
+        <https://w3id.org/tamar/taxonomies/asjc/2604>,
+        <https://w3id.org/tamar/taxonomies/asjc/2605>,
+        <https://w3id.org/tamar/taxonomies/asjc/2606>,
+        <https://w3id.org/tamar/taxonomies/asjc/2607>,
+        <https://w3id.org/tamar/taxonomies/asjc/2608>,
+        <https://w3id.org/tamar/taxonomies/asjc/2609>,
+        <https://w3id.org/tamar/taxonomies/asjc/2610>,
+        <https://w3id.org/tamar/taxonomies/asjc/2611>,
+        <https://w3id.org/tamar/taxonomies/asjc/2612>,
+        <https://w3id.org/tamar/taxonomies/asjc/2613>,
+        <https://w3id.org/tamar/taxonomies/asjc/2614> ;
+    skos:notation "2600" ;
+    skos:prefLabel "General Mathematics"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/1300> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:life-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/1301>,
+        <https://w3id.org/tamar/taxonomies/asjc/1302>,
+        <https://w3id.org/tamar/taxonomies/asjc/1303>,
+        <https://w3id.org/tamar/taxonomies/asjc/1304>,
+        <https://w3id.org/tamar/taxonomies/asjc/1305>,
+        <https://w3id.org/tamar/taxonomies/asjc/1306>,
+        <https://w3id.org/tamar/taxonomies/asjc/1307>,
+        <https://w3id.org/tamar/taxonomies/asjc/1308>,
+        <https://w3id.org/tamar/taxonomies/asjc/1309>,
+        <https://w3id.org/tamar/taxonomies/asjc/1310>,
+        <https://w3id.org/tamar/taxonomies/asjc/1311>,
+        <https://w3id.org/tamar/taxonomies/asjc/1312>,
+        <https://w3id.org/tamar/taxonomies/asjc/1313>,
+        <https://w3id.org/tamar/taxonomies/asjc/1314>,
+        <https://w3id.org/tamar/taxonomies/asjc/1315> ;
+    skos:notation "1300" ;
+    skos:prefLabel "General Biochemistry, Genetics and Molecular Biology"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2200> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:physical-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/2201>,
+        <https://w3id.org/tamar/taxonomies/asjc/2202>,
+        <https://w3id.org/tamar/taxonomies/asjc/2203>,
+        <https://w3id.org/tamar/taxonomies/asjc/2204>,
+        <https://w3id.org/tamar/taxonomies/asjc/2205>,
+        <https://w3id.org/tamar/taxonomies/asjc/2206>,
+        <https://w3id.org/tamar/taxonomies/asjc/2207>,
+        <https://w3id.org/tamar/taxonomies/asjc/2208>,
+        <https://w3id.org/tamar/taxonomies/asjc/2209>,
+        <https://w3id.org/tamar/taxonomies/asjc/2210>,
+        <https://w3id.org/tamar/taxonomies/asjc/2211>,
+        <https://w3id.org/tamar/taxonomies/asjc/2212>,
+        <https://w3id.org/tamar/taxonomies/asjc/2213>,
+        <https://w3id.org/tamar/taxonomies/asjc/2214>,
+        <https://w3id.org/tamar/taxonomies/asjc/2215>,
+        <https://w3id.org/tamar/taxonomies/asjc/2216> ;
+    skos:notation "2200" ;
+    skos:prefLabel "General Engineering"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3600> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:health-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/3601>,
+        <https://w3id.org/tamar/taxonomies/asjc/3602>,
+        <https://w3id.org/tamar/taxonomies/asjc/3603>,
+        <https://w3id.org/tamar/taxonomies/asjc/3604>,
+        <https://w3id.org/tamar/taxonomies/asjc/3605>,
+        <https://w3id.org/tamar/taxonomies/asjc/3606>,
+        <https://w3id.org/tamar/taxonomies/asjc/3607>,
+        <https://w3id.org/tamar/taxonomies/asjc/3608>,
+        <https://w3id.org/tamar/taxonomies/asjc/3609>,
+        <https://w3id.org/tamar/taxonomies/asjc/3610>,
+        <https://w3id.org/tamar/taxonomies/asjc/3611>,
+        <https://w3id.org/tamar/taxonomies/asjc/3612>,
+        <https://w3id.org/tamar/taxonomies/asjc/3613>,
+        <https://w3id.org/tamar/taxonomies/asjc/3614>,
+        <https://w3id.org/tamar/taxonomies/asjc/3615>,
+        <https://w3id.org/tamar/taxonomies/asjc/3616> ;
+    skos:notation "3600" ;
+    skos:prefLabel "General Health Professions"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/3300> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:social-sciences-humanities> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/3301>,
+        <https://w3id.org/tamar/taxonomies/asjc/3302>,
+        <https://w3id.org/tamar/taxonomies/asjc/3303>,
+        <https://w3id.org/tamar/taxonomies/asjc/3304>,
+        <https://w3id.org/tamar/taxonomies/asjc/3305>,
+        <https://w3id.org/tamar/taxonomies/asjc/3306>,
+        <https://w3id.org/tamar/taxonomies/asjc/3307>,
+        <https://w3id.org/tamar/taxonomies/asjc/3308>,
+        <https://w3id.org/tamar/taxonomies/asjc/3309>,
+        <https://w3id.org/tamar/taxonomies/asjc/3310>,
+        <https://w3id.org/tamar/taxonomies/asjc/3311>,
+        <https://w3id.org/tamar/taxonomies/asjc/3312>,
+        <https://w3id.org/tamar/taxonomies/asjc/3313>,
+        <https://w3id.org/tamar/taxonomies/asjc/3314>,
+        <https://w3id.org/tamar/taxonomies/asjc/3315>,
+        <https://w3id.org/tamar/taxonomies/asjc/3316>,
+        <https://w3id.org/tamar/taxonomies/asjc/3317>,
+        <https://w3id.org/tamar/taxonomies/asjc/3318>,
+        <https://w3id.org/tamar/taxonomies/asjc/3319>,
+        <https://w3id.org/tamar/taxonomies/asjc/3320>,
+        <https://w3id.org/tamar/taxonomies/asjc/3321>,
+        <https://w3id.org/tamar/taxonomies/asjc/3322> ;
+    skos:notation "3300" ;
+    skos:prefLabel "General Social Sciences"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2900> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:health-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/2901>,
+        <https://w3id.org/tamar/taxonomies/asjc/2902>,
+        <https://w3id.org/tamar/taxonomies/asjc/2903>,
+        <https://w3id.org/tamar/taxonomies/asjc/2904>,
+        <https://w3id.org/tamar/taxonomies/asjc/2905>,
+        <https://w3id.org/tamar/taxonomies/asjc/2906>,
+        <https://w3id.org/tamar/taxonomies/asjc/2907>,
+        <https://w3id.org/tamar/taxonomies/asjc/2908>,
+        <https://w3id.org/tamar/taxonomies/asjc/2909>,
+        <https://w3id.org/tamar/taxonomies/asjc/2910>,
+        <https://w3id.org/tamar/taxonomies/asjc/2911>,
+        <https://w3id.org/tamar/taxonomies/asjc/2912>,
+        <https://w3id.org/tamar/taxonomies/asjc/2913>,
+        <https://w3id.org/tamar/taxonomies/asjc/2914>,
+        <https://w3id.org/tamar/taxonomies/asjc/2915>,
+        <https://w3id.org/tamar/taxonomies/asjc/2916>,
+        <https://w3id.org/tamar/taxonomies/asjc/2917>,
+        <https://w3id.org/tamar/taxonomies/asjc/2918>,
+        <https://w3id.org/tamar/taxonomies/asjc/2919>,
+        <https://w3id.org/tamar/taxonomies/asjc/2920>,
+        <https://w3id.org/tamar/taxonomies/asjc/2921>,
+        <https://w3id.org/tamar/taxonomies/asjc/2922>,
+        <https://w3id.org/tamar/taxonomies/asjc/2923> ;
+    skos:notation "2900" ;
+    skos:prefLabel "General Nursing"@en .
+
+<https://w3id.org/tamar/taxonomies/asjc/2700> a skos:Concept ;
+    skos:broader <https://w3id.org/tamar/taxonomies/asjc/sa:health-sciences> ;
+    skos:narrower <https://w3id.org/tamar/taxonomies/asjc/2701>,
+        <https://w3id.org/tamar/taxonomies/asjc/2702>,
+        <https://w3id.org/tamar/taxonomies/asjc/2703>,
+        <https://w3id.org/tamar/taxonomies/asjc/2704>,
+        <https://w3id.org/tamar/taxonomies/asjc/2705>,
+        <https://w3id.org/tamar/taxonomies/asjc/2706>,
+        <https://w3id.org/tamar/taxonomies/asjc/2707>,
+        <https://w3id.org/tamar/taxonomies/asjc/2708>,
+        <https://w3id.org/tamar/taxonomies/asjc/2709>,
+        <https://w3id.org/tamar/taxonomies/asjc/2710>,
+        <https://w3id.org/tamar/taxonomies/asjc/2711>,
+        <https://w3id.org/tamar/taxonomies/asjc/2712>,
+        <https://w3id.org/tamar/taxonomies/asjc/2713>,
+        <https://w3id.org/tamar/taxonomies/asjc/2714>,
+        <https://w3id.org/tamar/taxonomies/asjc/2715>,
+        <https://w3id.org/tamar/taxonomies/asjc/2716>,
+        <https://w3id.org/tamar/taxonomies/asjc/2717>,
+        <https://w3id.org/tamar/taxonomies/asjc/2718>,
+        <https://w3id.org/tamar/taxonomies/asjc/2719>,
+        <https://w3id.org/tamar/taxonomies/asjc/2720>,
+        <https://w3id.org/tamar/taxonomies/asjc/2721>,
+        <https://w3id.org/tamar/taxonomies/asjc/2722>,
+        <https://w3id.org/tamar/taxonomies/asjc/2723>,
+        <https://w3id.org/tamar/taxonomies/asjc/2724>,
+        <https://w3id.org/tamar/taxonomies/asjc/2725>,
+        <https://w3id.org/tamar/taxonomies/asjc/2726>,
+        <https://w3id.org/tamar/taxonomies/asjc/2727>,
+        <https://w3id.org/tamar/taxonomies/asjc/2728>,
+        <https://w3id.org/tamar/taxonomies/asjc/2729>,
+        <https://w3id.org/tamar/taxonomies/asjc/2730>,
+        <https://w3id.org/tamar/taxonomies/asjc/2731>,
+        <https://w3id.org/tamar/taxonomies/asjc/2732>,
+        <https://w3id.org/tamar/taxonomies/asjc/2733>,
+        <https://w3id.org/tamar/taxonomies/asjc/2734>,
+        <https://w3id.org/tamar/taxonomies/asjc/2735>,
+        <https://w3id.org/tamar/taxonomies/asjc/2736>,
+        <https://w3id.org/tamar/taxonomies/asjc/2737>,
+        <https://w3id.org/tamar/taxonomies/asjc/2738>,
+        <https://w3id.org/tamar/taxonomies/asjc/2739>,
+        <https://w3id.org/tamar/taxonomies/asjc/2740>,
+        <https://w3id.org/tamar/taxonomies/asjc/2741>,
+        <https://w3id.org/tamar/taxonomies/asjc/2742>,
+        <https://w3id.org/tamar/taxonomies/asjc/2743>,
+        <https://w3id.org/tamar/taxonomies/asjc/2744>,
+        <https://w3id.org/tamar/taxonomies/asjc/2745>,
+        <https://w3id.org/tamar/taxonomies/asjc/2746>,
+        <https://w3id.org/tamar/taxonomies/asjc/2747>,
+        <https://w3id.org/tamar/taxonomies/asjc/2748> ;
+    skos:notation "2700" ;
+    skos:prefLabel "General Medicine"@en .
+

@@ -1,0 +1,497 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/tamar/taxonomies/wos/AA> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048484> .
+
+<https://w3id.org/tamar/taxonomies/wos/AC> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31049126> .
+
+<https://w3id.org/tamar/taxonomies/wos/AD> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050826> .
+
+<https://w3id.org/tamar/taxonomies/wos/AE> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050883> .
+
+<https://w3id.org/tamar/taxonomies/wos/AF> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050900> .
+
+<https://w3id.org/tamar/taxonomies/wos/AH> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049860> .
+
+<https://w3id.org/tamar/taxonomies/wos/AI> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31049175> .
+
+<https://w3id.org/tamar/taxonomies/wos/AM> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050788> .
+
+<https://w3id.org/tamar/taxonomies/wos/AQ> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050444> .
+
+<https://w3id.org/tamar/taxonomies/wos/AY> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050293> .
+
+<https://w3id.org/tamar/taxonomies/wos/AZ> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050381> .
+
+<https://w3id.org/tamar/taxonomies/wos/BA> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050415> .
+
+<https://w3id.org/tamar/taxonomies/wos/BD> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049007> .
+
+<https://w3id.org/tamar/taxonomies/wos/BF> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051011> .
+
+<https://w3id.org/tamar/taxonomies/wos/BI> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31051152> .
+
+<https://w3id.org/tamar/taxonomies/wos/BK> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051190> .
+
+<https://w3id.org/tamar/taxonomies/wos/BM> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051068> .
+
+<https://w3id.org/tamar/taxonomies/wos/BP> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051191> .
+
+<https://w3id.org/tamar/taxonomies/wos/BQ> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051205> .
+
+<https://w3id.org/tamar/taxonomies/wos/BU> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048485> .
+
+<https://w3id.org/tamar/taxonomies/wos/BV> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050910> .
+
+<https://w3id.org/tamar/taxonomies/wos/CL> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050477> .
+
+<https://w3id.org/tamar/taxonomies/wos/CN> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050923> .
+
+<https://w3id.org/tamar/taxonomies/wos/CO> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048846> .
+
+<https://w3id.org/tamar/taxonomies/wos/CQ> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048817> .
+
+<https://w3id.org/tamar/taxonomies/wos/CT> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050705> .
+
+<https://w3id.org/tamar/taxonomies/wos/CU> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049013> .
+
+<https://w3id.org/tamar/taxonomies/wos/DA> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048849> .
+
+<https://w3id.org/tamar/taxonomies/wos/DB> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049425> .
+
+<https://w3id.org/tamar/taxonomies/wos/DE> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048898> .
+
+<https://w3id.org/tamar/taxonomies/wos/DI> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050967> .
+
+<https://w3id.org/tamar/taxonomies/wos/DK> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050945> .
+
+<https://w3id.org/tamar/taxonomies/wos/DM> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050470> .
+
+<https://w3id.org/tamar/taxonomies/wos/DQ> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050386> .
+
+<https://w3id.org/tamar/taxonomies/wos/DR> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048788> .
+
+<https://w3id.org/tamar/taxonomies/wos/DS> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050412> .
+
+<https://w3id.org/tamar/taxonomies/wos/DT> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048461> .
+
+<https://w3id.org/tamar/taxonomies/wos/DW> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048534> .
+
+<https://w3id.org/tamar/taxonomies/wos/DX> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050727> .
+
+<https://w3id.org/tamar/taxonomies/wos/DY> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048534> .
+
+<https://w3id.org/tamar/taxonomies/wos/EA> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048584> .
+
+<https://w3id.org/tamar/taxonomies/wos/EC> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048550> .
+
+<https://w3id.org/tamar/taxonomies/wos/EE> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048535> .
+
+<https://w3id.org/tamar/taxonomies/wos/EI> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048561> .
+
+<https://w3id.org/tamar/taxonomies/wos/EN> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051101> .
+
+<https://w3id.org/tamar/taxonomies/wos/EO> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051169> .
+
+<https://w3id.org/tamar/taxonomies/wos/EP> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048410> .
+
+<https://w3id.org/tamar/taxonomies/wos/EQ> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050918> .
+
+<https://w3id.org/tamar/taxonomies/wos/ER> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049121> .
+
+<https://w3id.org/tamar/taxonomies/wos/ES> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049144> .
+
+<https://w3id.org/tamar/taxonomies/wos/ET> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048414> .
+
+<https://w3id.org/tamar/taxonomies/wos/EU> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051096> .
+
+<https://w3id.org/tamar/taxonomies/wos/EV> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048394> .
+
+<https://w3id.org/tamar/taxonomies/wos/EW> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048406> .
+
+<https://w3id.org/tamar/taxonomies/wos/EX> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048407> .
+
+<https://w3id.org/tamar/taxonomies/wos/FA> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049063> .
+
+<https://w3id.org/tamar/taxonomies/wos/FE> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051025> .
+
+<https://w3id.org/tamar/taxonomies/wos/FF> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050413> .
+
+<https://w3id.org/tamar/taxonomies/wos/FI> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048611> .
+
+<https://w3id.org/tamar/taxonomies/wos/FS> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051201> .
+
+<https://w3id.org/tamar/taxonomies/wos/FU> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31051009> .
+
+<https://w3id.org/tamar/taxonomies/wos/FY> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050438> .
+
+<https://w3id.org/tamar/taxonomies/wos/GA> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050443> .
+
+<https://w3id.org/tamar/taxonomies/wos/GC> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048658> .
+
+<https://w3id.org/tamar/taxonomies/wos/GM> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050697> .
+
+<https://w3id.org/tamar/taxonomies/wos/GU> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048971> .
+
+<https://w3id.org/tamar/taxonomies/wos/GY> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050946> .
+
+<https://w3id.org/tamar/taxonomies/wos/HA> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050983> .
+
+<https://w3id.org/tamar/taxonomies/wos/HB> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051056> .
+
+<https://w3id.org/tamar/taxonomies/wos/HE> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050999> .
+
+<https://w3id.org/tamar/taxonomies/wos/HF> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051186> .
+
+<https://w3id.org/tamar/taxonomies/wos/HI> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050934> .
+
+<https://w3id.org/tamar/taxonomies/wos/HL> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050511> .
+
+<https://w3id.org/tamar/taxonomies/wos/HQ> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048578> .
+
+<https://w3id.org/tamar/taxonomies/wos/HT> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31049014> .
+
+<https://w3id.org/tamar/taxonomies/wos/HY> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048887> .
+
+<https://w3id.org/tamar/taxonomies/wos/IA> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050447> .
+
+<https://w3id.org/tamar/taxonomies/wos/ID> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31053953> .
+
+<https://w3id.org/tamar/taxonomies/wos/IF> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049441> .
+
+<https://w3id.org/tamar/taxonomies/wos/IG> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049202> .
+
+<https://w3id.org/tamar/taxonomies/wos/IH> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049213> ;
+    skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31053953> .
+
+<https://w3id.org/tamar/taxonomies/wos/II> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31049178> .
+
+<https://w3id.org/tamar/taxonomies/wos/IJ> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049441> .
+
+<https://w3id.org/tamar/taxonomies/wos/IK> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049148> .
+
+<https://w3id.org/tamar/taxonomies/wos/IL> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31049401> .
+
+<https://w3id.org/tamar/taxonomies/wos/IM> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31049044> .
+
+<https://w3id.org/tamar/taxonomies/wos/IO> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31049151> .
+
+<https://w3id.org/tamar/taxonomies/wos/IP> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049218> .
+
+<https://w3id.org/tamar/taxonomies/wos/IQ> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31049118> .
+
+<https://w3id.org/tamar/taxonomies/wos/IU> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31049147> .
+
+<https://w3id.org/tamar/taxonomies/wos/IX> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049213> .
+
+<https://w3id.org/tamar/taxonomies/wos/IY> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048942> .
+
+<https://w3id.org/tamar/taxonomies/wos/JA> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048669> .
+
+<https://w3id.org/tamar/taxonomies/wos/JB> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048669> .
+
+<https://w3id.org/tamar/taxonomies/wos/JI> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050128> .
+
+<https://w3id.org/tamar/taxonomies/wos/JM> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051012> .
+
+<https://w3id.org/tamar/taxonomies/wos/JO> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051023> .
+
+<https://w3id.org/tamar/taxonomies/wos/JS> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051204> .
+
+<https://w3id.org/tamar/taxonomies/wos/JU> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048692> .
+
+<https://w3id.org/tamar/taxonomies/wos/JW> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051203> .
+
+<https://w3id.org/tamar/taxonomies/wos/JY> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049443> .
+
+<https://w3id.org/tamar/taxonomies/wos/KA> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31049346> .
+
+<https://w3id.org/tamar/taxonomies/wos/KI> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050466> .
+
+<https://w3id.org/tamar/taxonomies/wos/KM> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048863> .
+
+<https://w3id.org/tamar/taxonomies/wos/KU> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048641> .
+
+<https://w3id.org/tamar/taxonomies/wos/KV> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048662> .
+
+<https://w3id.org/tamar/taxonomies/wos/KY> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048664> .
+
+<https://w3id.org/tamar/taxonomies/wos/LE> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048642> .
+
+<https://w3id.org/tamar/taxonomies/wos/LI> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050487> .
+
+<https://w3id.org/tamar/taxonomies/wos/LJ> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050487> .
+
+<https://w3id.org/tamar/taxonomies/wos/LQ> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050531> .
+
+<https://w3id.org/tamar/taxonomies/wos/MA> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050410> .
+
+<https://w3id.org/tamar/taxonomies/wos/MC> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048854> .
+
+<https://w3id.org/tamar/taxonomies/wos/ML> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050510> .
+
+<https://w3id.org/tamar/taxonomies/wos/MM> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31051121> .
+
+<https://w3id.org/tamar/taxonomies/wos/MQ> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051135> .
+
+<https://w3id.org/tamar/taxonomies/wos/MR> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051120> .
+
+<https://w3id.org/tamar/taxonomies/wos/MU> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050779> .
+
+<https://w3id.org/tamar/taxonomies/wos/MW> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051107> .
+
+<https://w3id.org/tamar/taxonomies/wos/MY> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050932> .
+
+<https://w3id.org/tamar/taxonomies/wos/NE> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050540> .
+
+<https://w3id.org/tamar/taxonomies/wos/NI> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050306> .
+
+<https://w3id.org/tamar/taxonomies/wos/NM> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050964> .
+
+<https://w3id.org/tamar/taxonomies/wos/NN> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050610> .
+
+<https://w3id.org/tamar/taxonomies/wos/NQ> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050927> .
+
+<https://w3id.org/tamar/taxonomies/wos/NS> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049436> .
+
+<https://w3id.org/tamar/taxonomies/wos/NU> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051099> .
+
+<https://w3id.org/tamar/taxonomies/wos/OA> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048631> .
+
+<https://w3id.org/tamar/taxonomies/wos/OE> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31051029> .
+
+<https://w3id.org/tamar/taxonomies/wos/OI> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050501> .
+
+<https://w3id.org/tamar/taxonomies/wos/OM> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051025> .
+
+<https://w3id.org/tamar/taxonomies/wos/OO> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050696> .
+
+<https://w3id.org/tamar/taxonomies/wos/OP> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050510> .
+
+<https://w3id.org/tamar/taxonomies/wos/OR> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051107> .
+
+<https://w3id.org/tamar/taxonomies/wos/OT> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31051175> .
+
+<https://w3id.org/tamar/taxonomies/wos/OU> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048970> .
+
+<https://w3id.org/tamar/taxonomies/wos/OX> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051164> .
+
+<https://w3id.org/tamar/taxonomies/wos/OY> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051175> .
+
+<https://w3id.org/tamar/taxonomies/wos/OZ> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051164> .
+
+<https://w3id.org/tamar/taxonomies/wos/PA> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051164> .
+
+<https://w3id.org/tamar/taxonomies/wos/PC> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050945> .
+
+<https://w3id.org/tamar/taxonomies/wos/PE> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050945> .
+
+<https://w3id.org/tamar/taxonomies/wos/PG> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051164> .
+
+<https://w3id.org/tamar/taxonomies/wos/PH> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051164> .
+
+<https://w3id.org/tamar/taxonomies/wos/PI> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048964> .
+
+<https://w3id.org/tamar/taxonomies/wos/PJ> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049200> .
+
+<https://w3id.org/tamar/taxonomies/wos/PK> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049192> .
+
+<https://w3id.org/tamar/taxonomies/wos/PM> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049183> .
+
+<https://w3id.org/tamar/taxonomies/wos/PN> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048366> .
+
+<https://w3id.org/tamar/taxonomies/wos/PO> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048365> .
+
+<https://w3id.org/tamar/taxonomies/wos/PQ> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048365> .
+
+<https://w3id.org/tamar/taxonomies/wos/PS> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051000> .
+
+<https://w3id.org/tamar/taxonomies/wos/PU> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049173> .
+
+<https://w3id.org/tamar/taxonomies/wos/PW> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049203> .
+
+<https://w3id.org/tamar/taxonomies/wos/PY> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050380> .
+
+<https://w3id.org/tamar/taxonomies/wos/PZ> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049164> .
+
+<https://w3id.org/tamar/taxonomies/wos/QA> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050292> .
+
+<https://w3id.org/tamar/taxonomies/wos/QC> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051164> .
+
+<https://w3id.org/tamar/taxonomies/wos/QD> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051164> .
+
+<https://w3id.org/tamar/taxonomies/wos/QE> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050713> .
+
+<https://w3id.org/tamar/taxonomies/wos/QF> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049438> .
+
+<https://w3id.org/tamar/taxonomies/wos/QG> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049193> .
+
+<https://w3id.org/tamar/taxonomies/wos/QH> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049198> .
+
+<https://w3id.org/tamar/taxonomies/wos/QJ> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049201> .
+
+<https://w3id.org/tamar/taxonomies/wos/QK> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051126> .
+
+<https://w3id.org/tamar/taxonomies/wos/QL> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048367> .
+
+<https://w3id.org/tamar/taxonomies/wos/QQ> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048673> .
+
+<https://w3id.org/tamar/taxonomies/wos/QU> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048789> .
+
+<https://w3id.org/tamar/taxonomies/wos/RA> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048605> .
+
+<https://w3id.org/tamar/taxonomies/wos/RB> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049124> .
+
+<https://w3id.org/tamar/taxonomies/wos/RE> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048649> .
+
+<https://w3id.org/tamar/taxonomies/wos/RO> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049036> .
+
+<https://w3id.org/tamar/taxonomies/wos/RP> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051202> .
+
+<https://w3id.org/tamar/taxonomies/wos/RQ> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048848> .
+
+<https://w3id.org/tamar/taxonomies/wos/RT> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050486> .
+
+<https://w3id.org/tamar/taxonomies/wos/RU> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050318> .
+
+<https://w3id.org/tamar/taxonomies/wos/RX> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048426> .
+
+<https://w3id.org/tamar/taxonomies/wos/RY> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049147> .
+
+<https://w3id.org/tamar/taxonomies/wos/RZ> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050535> .
+
+<https://w3id.org/tamar/taxonomies/wos/SA> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050536> .
+
+<https://w3id.org/tamar/taxonomies/wos/SD> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050382> .
+
+<https://w3id.org/tamar/taxonomies/wos/SI> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048680> .
+
+<https://w3id.org/tamar/taxonomies/wos/SR> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31049399> .
+
+<https://w3id.org/tamar/taxonomies/wos/SU> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050475> .
+
+<https://w3id.org/tamar/taxonomies/wos/SY> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048479> .
+
+<https://w3id.org/tamar/taxonomies/wos/TA> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048930> .
+
+<https://w3id.org/tamar/taxonomies/wos/TC> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050416> .
+
+<https://w3id.org/tamar/taxonomies/wos/TD> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050476> .
+
+<https://w3id.org/tamar/taxonomies/wos/TE> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048653> .
+
+<https://w3id.org/tamar/taxonomies/wos/TI> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048806> .
+
+<https://w3id.org/tamar/taxonomies/wos/TM> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050376> .
+
+<https://w3id.org/tamar/taxonomies/wos/TQ> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050385> .
+
+<https://w3id.org/tamar/taxonomies/wos/TU> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050342> .
+
+<https://w3id.org/tamar/taxonomies/wos/UA> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051182> .
+
+<https://w3id.org/tamar/taxonomies/wos/UB> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048432> .
+
+<https://w3id.org/tamar/taxonomies/wos/UE> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049441> .
+
+<https://w3id.org/tamar/taxonomies/wos/UF> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048474> .
+
+<https://w3id.org/tamar/taxonomies/wos/UH> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048433> .
+
+<https://w3id.org/tamar/taxonomies/wos/UI> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048432> .
+
+<https://w3id.org/tamar/taxonomies/wos/UK> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048442> .
+
+<https://w3id.org/tamar/taxonomies/wos/UM> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050373> .
+
+<https://w3id.org/tamar/taxonomies/wos/UN> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048472> .
+
+<https://w3id.org/tamar/taxonomies/wos/UP> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048466> .
+
+<https://w3id.org/tamar/taxonomies/wos/UR> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048379> .
+
+<https://w3id.org/tamar/taxonomies/wos/UU> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31051035> .
+
+<https://w3id.org/tamar/taxonomies/wos/UY> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048560> .
+
+<https://w3id.org/tamar/taxonomies/wos/VE> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050481> .
+
+<https://w3id.org/tamar/taxonomies/wos/VI> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050910> .
+
+<https://w3id.org/tamar/taxonomies/wos/VJ> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050910> .
+
+<https://w3id.org/tamar/taxonomies/wos/VM> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050954> .
+
+<https://w3id.org/tamar/taxonomies/wos/VP> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050510> .
+
+<https://w3id.org/tamar/taxonomies/wos/VS> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050910> .
+
+<https://w3id.org/tamar/taxonomies/wos/VX> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050935> .
+
+<https://w3id.org/tamar/taxonomies/wos/VY> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050426> .
+
+<https://w3id.org/tamar/taxonomies/wos/WC> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050685> .
+
+<https://w3id.org/tamar/taxonomies/wos/WE> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050411> .
+
+<https://w3id.org/tamar/taxonomies/wos/WF> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048884> .
+
+<https://w3id.org/tamar/taxonomies/wos/WH> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050446> .
+
+<https://w3id.org/tamar/taxonomies/wos/WM> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31051021> .
+
+<https://w3id.org/tamar/taxonomies/wos/WQ> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050917> .
+
+<https://w3id.org/tamar/taxonomies/wos/WU> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051107> ;
+    skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31051108> .
+
+<https://w3id.org/tamar/taxonomies/wos/WV> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050510> .
+
+<https://w3id.org/tamar/taxonomies/wos/WY> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051023> .
+
+<https://w3id.org/tamar/taxonomies/wos/XA> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31051000> .
+
+<https://w3id.org/tamar/taxonomies/wos/XE> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048656> .
+
+<https://w3id.org/tamar/taxonomies/wos/XQ> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048592> .
+
+<https://w3id.org/tamar/taxonomies/wos/XW> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050680> .
+
+<https://w3id.org/tamar/taxonomies/wos/XY> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31048390> .
+
+<https://w3id.org/tamar/taxonomies/wos/YA> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050418> .
+
+<https://w3id.org/tamar/taxonomies/wos/YE> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31049140> .
+
+<https://w3id.org/tamar/taxonomies/wos/YG> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051201> .
+
+<https://w3id.org/tamar/taxonomies/wos/YI> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051188> .
+
+<https://w3id.org/tamar/taxonomies/wos/YO> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048814> .
+
+<https://w3id.org/tamar/taxonomies/wos/YP> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050437> .
+
+<https://w3id.org/tamar/taxonomies/wos/YQ> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051090> .
+
+<https://w3id.org/tamar/taxonomies/wos/YR> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051090> .
+
+<https://w3id.org/tamar/taxonomies/wos/YU> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050607> .
+
+<https://w3id.org/tamar/taxonomies/wos/YY> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051085> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZA> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050380> ;
+    skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050467> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZC> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31050851> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZD> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31050409> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZE> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048816> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZK> skos:broadMatch <https://w3id.org/tamar/taxonomies/oecd/31051019> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZM> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048933> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZQ> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31049400> .
+
+<https://w3id.org/tamar/taxonomies/wos/ZR> skos:exactMatch <https://w3id.org/tamar/taxonomies/oecd/31048690> .
+

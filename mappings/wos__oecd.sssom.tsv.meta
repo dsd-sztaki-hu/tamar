@@ -1,0 +1,12 @@
+# curie_map:
+#   skos: http://www.w3.org/2004/02/skos/core#
+#   semapv: https://w3id.org/semapv/vocab/
+#   wos: https://w3id.org/tamar/taxonomies/wos/
+#   oecd: https://w3id.org/tamar/taxonomies/oecd/
+# mapping_set_id: https://w3id.org/tamar/mappings/wos__oecd.sssom.tsv
+# mapping_set_description: Web of Science Subject Categories to OECD FORD (Frascati) fields of science; curated, from taxonomies/WoS/wos_to_frascati.csv.
+# license: https://creativecommons.org/licenses/by/4.0/
+# mapping_tool: none (curated source table, no LLM)
+# embedding_model: none (curated, no embeddings)
+# llm_model: none (curated, no LLM)
+# mapping_date: 2026-09-05

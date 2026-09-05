@@ -1,0 +1,4 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.europa.eu/8mn/euroscivoc/f26d918d-0024-4d97-ae6f-f8be85182f95> skos:exactMatch <http://id.nlm.nih.gov/mesh/D066330> .
+
